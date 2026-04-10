@@ -4,7 +4,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 ## 📂 What's Inside?
 ### 1. Initiation Phase
 * **Project Proposal:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1DsauKCo4XHTqJKnJKCVwa-E__KKTDbk1C5oE8MZaD8M/edit?usp=sharing)  👩🏻‍💻
-* **Project Charter:** [Click to Make a Copy (Google Docs)](YOUR_LINK_HERE)
+* **Project Charter:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1TQc5pe2fOv7aBtuU70lSYLt7F8-tjcYQqVahA2PWdJQ/edit?usp=sharing)
 * **Stakeholder Register:** [Click to Make a Copy (Google Sheets)](YOUR_LINK_HERE)
 
 ## ⭐ How to Support
