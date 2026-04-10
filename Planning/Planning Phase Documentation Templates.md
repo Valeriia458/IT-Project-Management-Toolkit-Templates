@@ -10,7 +10,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * **Communication plan:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/184RvkkeF_4SZDzM8HLmha_Jubh7Jmc1CFfoHKVvl6r0/edit?usp=sharing) 💌
 * **Risk management plan:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1MsQGYH1z_b30UpKBNA_psbkV2RnsJiDD0Ij1QvD5P0E/edit?usp=sharing) ⚡️
 * **Budget Beast Burndown Chart:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1MK8v9-sNL0KIqUhe6YviBqLdjN61UryrGGcv1E7F65I/edit?usp=sharing) ☕️
-* **Questions on the initiation phase:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1NUxmz4hX2MQqyNQc4toVccjOjmUG2U7glMqYQC2y2zM/edit?usp=sharing)💛🍵
+💛🍵
   
 
 
