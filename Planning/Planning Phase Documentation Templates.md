@@ -5,9 +5,9 @@ A collection of professional templates for aspiring and junior Project Managers,
 ## 📂 What's Inside?
 ### 2. Planing Phase
 * **Gantt chart:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1JRxcleCD29aBJ8AajLtSZeuobr4d_VcVMZz1FXRqYYk/edit?usp=sharing)  👩🏻‍💻
-* **Project Charter:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1TQc5pe2fOv7aBtuU70lSYLt7F8-tjcYQqVahA2PWdJQ/edit?usp=sharing)   ☀️
-* **Stakeholder Register:** [Click to Make a Copy (Google Slides)](https://docs.google.com/presentation/d/1tLbuTcV0P43zxjE0aeAmoQGTmR5L7hHjafgIx1EYuPg/edit?usp=sharing) 💌 
-* **RACI chart:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1_V8Prq79L-1eQqWvpKw_UK9-kDcYu0iCVqWe2fA1w6Y/edit?usp=sharing) 🤍
+* **Project plan:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1dMeKiY1qynAT_bfIF5G5xh9K2lIBJfDkCPCkXMtz44I/edit?usp=sharing)   ☀️
+* **Project budget:** [Click to Make a Copy (Google Slides)](https://docs.google.com/spreadsheets/d/1s4yaY40lT1Q4QTUKRtd1TDC3PtwrKLpDa026dgva3ww/edit?usp=sharing) 🤍 
+* **RACI chart:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1_V8Prq79L-1eQqWvpKw_UK9-kDcYu0iCVqWe2fA1w6Y/edit?usp=sharing) 💌
 * **SMART goals:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1IWjr_-cm5zuUa8OVJenTT-_9EclUq77wZ7vYQha8Omw/edit?usp=sharing) ⚡️
 * **Project Move It OKRs:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1u2ALNL9U8CFE7-27pxAIwBSPKfhQLUCvz2D444kO5gc/edit?usp=sharing) ☕️
 * **Questions on the initiation phase:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1NUxmz4hX2MQqyNQc4toVccjOjmUG2U7glMqYQC2y2zM/edit?usp=sharing)💛🍵
