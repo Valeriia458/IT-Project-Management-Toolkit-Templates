@@ -8,7 +8,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * **Stakeholder Register:** [Click to Make a Copy (Google Slides)](https://docs.google.com/presentation/d/1tLbuTcV0P43zxjE0aeAmoQGTmR5L7hHjafgIx1EYuPg/edit?usp=sharing) 💌 
 * **RACI chart:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1_V8Prq79L-1eQqWvpKw_UK9-kDcYu0iCVqWe2fA1w6Y/edit?usp=sharing) 🤍
 * **SMART goals:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1IWjr_-cm5zuUa8OVJenTT-_9EclUq77wZ7vYQha8Omw/edit?usp=sharing) ⚡️
-* **SProject Move It OKRs:** [Click to Make a Copy (Google Docs)]([https://docs.google.com/document/d/1IWjr_-cm5zuUa8OVJenTT-_9EclUq77wZ7vYQha8Omw/edit?usp=sharing](https://docs.google.com/document/d/1u2ALNL9U8CFE7-27pxAIwBSPKfhQLUCvz2D444kO5gc/edit?usp=sharing) ⚡️
+* **SProject Move It OKRs:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1u2ALNL9U8CFE7-27pxAIwBSPKfhQLUCvz2D444kO5gc/edit?usp=sharing) ⚡️ ⚡️
   
 
 ## ⭐ How to Support
