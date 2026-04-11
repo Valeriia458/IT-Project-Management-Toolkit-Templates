@@ -12,7 +12,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * **Roadmap:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1CfSzBMg0Zz3X-jWWPnStJzJoer9qo6GmGguCpOJniPA/edit?usp=sharing) ✨
 * **Retrospective:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1yBprqf9y6wIDKflNSm-M-wglAKOqrTD-EwJ4LpDyYk0/edit?usp=sharing)🌸
 🍵
-* **Change Request:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1z8g9ynpZOycKfRakULSBGYn4jtH0MWZKtANQzQLEeY0/edit?usp=sharing) 🏃🏻‍♀️
+* **Change Request:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1z8g9ynpZOycKfRakULSBGYn4jtH0MWZKtANQzQLEeY0/edit?usp=sharing) ✈
 * **Project closeout report:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/17OdiW0L7QjAWs4YtRb020UqshNKV4xqa1zy2dChBgJI/edit?usp=sharing) 🙂
 
 
