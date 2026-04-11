@@ -12,7 +12,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * **Budget Beast Burndown Chart:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/presentation/d/1qyBv2pLs-z-qsqt1AONzjZNCCuc-ePlaUkjk1mNPRKs/edit?usp=sharing) 
 🍵
  * **WBS Brainstorm Diagram:** [Click to Make a Copy (Google Slides)](https://docs.google.com/spreadsheets/d/1MK8v9-sNL0KIqUhe6YviBqLdjN61UryrGGcv1E7F65I/edit?usp=sharing) ☕️ 
-
+* **WBS to create project tasks and milestones:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1sLkXu7PtyvX43GP5d3LMl7yPOoYQPH4FrHuuGgAG_mI/edit?usp=sharing)
 
 
 
