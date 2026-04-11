@@ -13,9 +13,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * **Retrospective:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1yBprqf9y6wIDKflNSm-M-wglAKOqrTD-EwJ4LpDyYk0/edit?usp=sharing) 
 🍵
 * **WBS Brainstorm Diagram:** [Click to Make a Copy (Google Slides)](https://docs.google.com/spreadsheets/d/1MK8v9-sNL0KIqUhe6YviBqLdjN61UryrGGcv1E7F65I/edit?usp=sharing) 🏃🏻‍♀️
-* **WBS to create project tasks and milestones:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1sLkXu7PtyvX43GP5d3LMl7yPOoYQPH4FrHuuGgAG_mI/edit?usp=sharing) ☀️
-
-* **WBS to create project tasks and milestones:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1pKxClCpxwrhNeKkpEDmzVgqYbjn5UxQPpt9Z8Ay7drc/edit?usp=sharing) 💌
+* **Project closeout report:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/17OdiW0L7QjAWs4YtRb020UqshNKV4xqa1zy2dChBgJI/edit?usp=sharing) ☀️
 
 
 
