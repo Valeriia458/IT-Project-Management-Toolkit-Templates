@@ -16,11 +16,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * **Execution tracking:** Examples of status reports and stakeholder communications.
 * **Project Closing:** A full retrospective and impact report.
 
-* **Portfolio artifacts, the entire project:** [Click to Make a Copy (Google Folder)](https://drive.google.com/drive/folders/1Mh8OUbJYvBWpZlQBEVWUXD0Ssb3LKFp2?usp=sharing)  👩🏻‍💻
-
   
-
-
 
 
 ## ⭐ How to Support
