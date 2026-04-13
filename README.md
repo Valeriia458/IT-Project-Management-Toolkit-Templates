@@ -1,3 +1,4 @@
+<p align="center"><img src="./banner.jpg" width="100%"></p>
 # 🚀 IT Project Management Toolkit & Case Study
 
 A comprehensive collection of professional PM templates and artifacts designed for aspiring Project Managers, Junior PMs, and students of the Google Project Management Certificate.
