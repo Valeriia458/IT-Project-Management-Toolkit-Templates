@@ -15,8 +15,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * **WBS to create project tasks and milestones:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1sLkXu7PtyvX43GP5d3LMl7yPOoYQPH4FrHuuGgAG_mI/edit?usp=sharing) ☀️
 
 * **WBS to create project tasks and milestones:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1pKxClCpxwrhNeKkpEDmzVgqYbjn5UxQPpt9Z8Ay7drc/edit?usp=sharing) 💌
-
-
+* **Planning: Guiding questions and tips:** [Click to Make a Copy (Google Docs)](https://drive.google.com/file/d/1AJPMy3LHz9KABoG60eaYRdv2krsF7P7-/view?usp=sharing) 🌳
 
 ## ⭐ How to Support
 If you find these templates helpful for your PM journey, please **give this repository a star!** It helps other aspiring PMs find these resources.
