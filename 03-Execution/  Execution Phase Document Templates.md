@@ -13,6 +13,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * **Retrospective:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1yBprqf9y6wIDKflNSm-M-wglAKOqrTD-EwJ4LpDyYk0/edit?usp=sharing)🌸
 🍵
 * **Change Request:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1z8g9ynpZOycKfRakULSBGYn4jtH0MWZKtANQzQLEeY0/edit?usp=sharing) ✈
+* **Execution: Guiding questions and tips:** [Click to Make a Copy (Google Docs)](https://drive.google.com/file/d/1qLkkgr-lBNAyNMqLMe-_mq5Nmzh7faE5/view?usp=sharing) 💎
 
 
 
