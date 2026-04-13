@@ -4,7 +4,7 @@
 A collection of professional templates for aspiring and junior Project Managers, inspired by the Google PM Certificate and real-world IT workflows.
 
 ## 📂 What's Inside?
-### Portfolio of Project Management artifacts
+### Reference Project: End-to-End Implementation
 * **Portfolio artifacts, the entire project:** [Click to Make a Copy (Google Folder)](https://drive.google.com/drive/folders/1Mh8OUbJYvBWpZlQBEVWUXD0Ssb3LKFp2?usp=sharing)  👩🏻‍💻
 
   
