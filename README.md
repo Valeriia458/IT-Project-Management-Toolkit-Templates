@@ -13,7 +13,7 @@ Each folder contains industry-standard templates provided in editable formats.
 2. [**02-Planning**](./02-Planning) - RACI Charts, Project Plans, and Communication Strategies.
 3. [**03-Execution**](./03-Execution) - Status Reports, Risk Logs, and ROAM Analysis.
 4. [**04-Closing**](./04-Closing) - Retrospectives and Project Closeout Reports.
-5. [**Portfolio Artifacts**](https://drive.google.com/drive/folders/1Mh8OUbJYvBWpZlQBEVWUXD0Ssb3LKFp2?usp=sharing) - **End-to-End Implementation:** See the full lifecycle of the "Plant Pals" project implementation.
+5. [**Portfolio Artifacts**](./Reference Project: End-to-End Implementation) - **End-to-End Implementation:** See the full lifecycle of the "Plant Pals" project implementation.
 
 ---
 
