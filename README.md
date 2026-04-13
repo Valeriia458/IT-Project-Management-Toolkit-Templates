@@ -27,4 +27,4 @@ If you find these templates helpful for your PM journey, please **give this repo
 
 ## 👩🏻‍💻 About the Author
 I am an aspiring Project Manager focused on the IT and GameDev industries. 
-* [**LinkedIn**](https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/)
+* [**My LinkedIn**](https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/)
