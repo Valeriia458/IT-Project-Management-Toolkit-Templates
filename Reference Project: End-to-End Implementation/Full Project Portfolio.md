@@ -11,10 +11,10 @@ A collection of professional templates for aspiring and junior Project Managers,
 ### [View Full Project Portfolio](https://drive.google.com/drive/folders/1Mh8OUbJYvBWpZlQBEVWUXD0Ssb3LKFp2?usp=sharing) 👩🏻‍💻
 
 **What you’ll find in this case study:**
-* **Strategic Alignment:** How I defined the Project Charter and success metrics.
-* **Risk Management:** A Risk Register with mitigation strategies.
+* **Strategic Alignment:** How I defined the Project Charter and success metrics.🧡
+* **Risk Management:** A Risk Register with mitigation strategies.🚵
 * **Execution tracking:** Examples of status reports and stakeholder communications.
-* **Project Closing:** A full retrospective and impact report.
+* **Project Closing:** A full retrospective and impact report.👾
 
   
 
