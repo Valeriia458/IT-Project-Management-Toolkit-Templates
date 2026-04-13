@@ -9,7 +9,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * **RACI chart:** [Click to Make a Copy (Google Sheets)](https://docs.google.com/spreadsheets/d/1_V8Prq79L-1eQqWvpKw_UK9-kDcYu0iCVqWe2fA1w6Y/edit?usp=sharing) 🤍
 * **SMART goals:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1IWjr_-cm5zuUa8OVJenTT-_9EclUq77wZ7vYQha8Omw/edit?usp=sharing) ⚡️
 * **Project Move It OKRs:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1u2ALNL9U8CFE7-27pxAIwBSPKfhQLUCvz2D444kO5gc/edit?usp=sharing) ☕️
-* **Questions on the initiation phase:** [Click to Make a Copy (Google Docs)](https://docs.google.com/document/d/1NUxmz4hX2MQqyNQc4toVccjOjmUG2U7glMqYQC2y2zM/edit?usp=sharing)💛🍵
+* **Initiation: Guiding questions and tips:** [Click to Make a Copy (Google Docs)](https://drive.google.com/file/d/1gQp1AGNCkg4vqmfd_D9caz8TMeCA_IEo/view?usp=sharing)💛🍵
   
 
 
