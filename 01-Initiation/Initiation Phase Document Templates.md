@@ -4,6 +4,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 ## 📂 What's Inside?
 ### 1. Initiation Phase
 * [**Project Proposal:**](https://docs.google.com/document/d/1DsauKCo4XHTqJKnJKCVwa-E__KKTDbk1C5oE8MZaD8M/edit?usp=sharing)  👩🏻‍💻📝
+* [**Project Requirements:**](https://docs.google.com/document/d/1A-M963s2zvQBtEBDgNaXU7xkL7RJJTIGK5KFwQiNhCM/edit?usp=sharing) ⚙️
 * [**Project Charter:**](https://docs.google.com/document/d/1TQc5pe2fOv7aBtuU70lSYLt7F8-tjcYQqVahA2PWdJQ/edit?usp=sharing)   ☀️
 * [**Stakeholder Register:**](https://docs.google.com/presentation/d/1tLbuTcV0P43zxjE0aeAmoQGTmR5L7hHjafgIx1EYuPg/edit?usp=sharing) 💌
 * [**Project Kickoff Meeting Agenda Template:**](https://docs.google.com/document/d/14e72YYlRIFxL7i0XSUvt3wHZdzR2FoKzxiTz5-l4ulE/edit?usp=sharing)  📢
