@@ -10,10 +10,10 @@ A comprehensive collection of professional PM templates and artifacts designed f
 ## 📂 Navigation & Modules
 Each folder contains industry-standard templates provided in editable formats.
 
-1. [**01-Initiation**](./01-Initiation) - Proposal, Project Charters and Stakeholder Registers.
-2. [**02-Planning**](./02-Planning) - RACI Charts, Project Plans, and Communication Strategies.
-3. [**03-Execution**](./03-Execution) - Status Reports, Risk Logs, and ROAM Analysis.
-4. [**04-Closing**](./04-Closing) - Retrospectives and Project Closeout Reports.
+1. [**01-Initiation**](./01-Initiation) - Proposal, Project Charters and Stakeholder Registers.🌟🌿
+2. [**02-Planning**](./02-Planning) - RACI Charts, Project Plans, and Communication Strategies.🔥
+3. [**03-Execution**](./03-Execution) - Status Reports, Risk Logs, and ROAM Analysis.👾
+4. [**04-Closing**](./04-Closing) - Retrospectives and Project Closeout Reports.🏆
 5. [**Portfolio Artifacts**](./05-Portfolio) - **End-to-End Implementation:** See the full lifecycle of the "Plant Pals" project implementation.
 
 ---
