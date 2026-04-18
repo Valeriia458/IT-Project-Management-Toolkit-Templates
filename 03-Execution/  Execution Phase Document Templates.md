@@ -8,7 +8,8 @@ A collection of professional templates for aspiring and junior Project Managers,
 * [**Roadmap:**](https://docs.google.com/document/d/1CfSzBMg0Zz3X-jWWPnStJzJoer9qo6GmGguCpOJniPA/edit?usp=sharing)⚡
 * [**Daily Standup Meeting Notes :**](https://docs.google.com/document/d/18cvYb2mPXW16Gh_ZDC56b7pYifdAZuJQQFVQnPtHFu0/edit?usp=sharing)📢
 * [**Sprint Burndown and Velocity Tracker:**](https://docs.google.com/document/d/1mC7gmg7K4Lo8uBtzEaBoFB9RW16hEco-uLwj6vzQfq4/edit?usp=sharing) 📉
-* [**Bug & Issue Tracking Log:**](https://docs.google.com/document/d/1vzFF5OK0OdoMU_AYBeTr6xgJs4kL1QFfQEcyvdCJabY/edit?usp=sharing)🐞
+* [**Issue: Bug report:**](https://docs.google.com/document/d/1Ayd2s5CV0gjgiwenzalgoeF9r1IFF2AYHpbBRw5Oyes/edit?usp=sharing)🐞
+* [**Bug & Issue Tracking Log:**](https://docs.google.com/document/d/1vzFF5OK0OdoMU_AYBeTr6xgJs4kL1QFfQEcyvdCJabY/edit?usp=sharing)🐞📉
 * [**Status report:**](https://docs.google.com/spreadsheets/d/1slBHpoPL7OooB2GYoQUuOdpCfGcFvqVLkKdu8Nu1sdY/edit?usp=sharing)  👩🏻‍💻
 * [**Presentation:**](https://docs.google.com/presentation/d/1s69CmBAsfek86pCihYbxBJmCHilKKxTDBP0UM6yGP10/edit?usp=sharing) 📝
 * [**ROAM Analysis:**](https://docs.google.com/spreadsheets/d/1heNTVKCymKApa-IWfex_489szfqGhWvY8ojP1v4MaDA/edit?usp=sharing) 💚
