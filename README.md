@@ -1,5 +1,6 @@
 ![IT Project Management Toolkit](./banner.jpg)
-# 🚀 IT Project Management Toolkit & Case Study
+# IT Project Management Toolkit & Templates 📋🚀 
+# IT Project Management Toolkit & Case Study
 
 A comprehensive collection of professional PM templates and artifacts designed for aspiring Project Managers, Junior PMs, and students of the Google Project Management Certificate.
 
@@ -29,3 +30,35 @@ If you find these templates helpful for your PM journey, please **give this repo
 ## 👩🏻‍💻 About the Author
 I am an aspiring Project Manager focused on the IT and GameDev industries. 
 * [**My LinkedIn**](https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/)
+
+
+
+
+
+Professional project management templates and artifacts designed for IT professionals, 
+Google PM Certificate holders, and project managers building their portfolios.
+
+## ✨ What's Included
+- [List the actual templates you have]
+- Project Charter
+- Risk Management Plan
+- Stakeholder Analysis
+- [Continue with what's in your repo]
+
+## 🎯 Who Is This For?
+- Students pursuing Google PM Certificate
+- Junior Project Managers
+- IT Professionals transitioning to PM
+- Anyone building a PM portfolio
+
+## 🚀 Quick Start
+[Show how to use the templates]
+
+## 📚 Resources
+[Link to learning materials if applicable]
+
+## 📄 License
+MIT - Free to use!
+
+## 🤝 Contributing
+Contributions welcome! [Add guidelines]
