@@ -3,41 +3,363 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IT PM Toolkit | Documentation</title>
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 2rem; }
-        header { border-bottom: 2px solid #f0f0f0; margin-bottom: 2rem; }
-        .card { border: 1px solid #e1e4e8; border-radius: 6px; padding: 1.5rem; margin-bottom: 1rem; transition: 0.3s; }
-        .card:hover { border-color: #0366d6; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        .btn { background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; }
-        code { background: #f6f8fa; padding: 0.2rem 0.4rem; border-radius: 3px; }
-    </style>
+    <meta name="description" content="Professional IT Project Management templates and artifacts. Includes project charters, RACI charts, risk logs, and a complete case study.">
+    <meta name="keywords" content="project management, templates, IT, Google PM Certificate, portfolio">
+    <title>IT Project Management Toolkit & Templates 📋</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<header>
-    <h1>IT Project Management Toolkit</h1>
-    <p>A curated collection of roadmaps, templates, and frameworks for technical project managers.</p>
+<!-- Navigation -->
+<nav class="navbar">
+    <div class="container">
+        <div class="logo">IT PM Toolkit</div>
+        <ul class="nav-links">
+            <li><a href="#phases">Templates</a></li>
+            <li><a href="#case-study">Case Study</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats" target="_blank" class="btn-github">GitHub</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- Hero Section -->
+<header class="hero">
+    <div class="container">
+        <h1>Professional IT Project Management Toolkit</h1>
+        <p class="tagline">Templates, Artifacts & Complete Case Study for Aspiring Project Managers</p>
+        <div class="hero-buttons">
+            <a href="#phases" class="btn btn-primary">Explore Templates</a>
+            <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats" target="_blank" class="btn btn-secondary">View on GitHub</a>
+        </div>
+    </div>
 </header>
 
-<section>
-    <h2>Included Templates</h2>
-    
-    <div class="card">
-        <h3>🚀 Project Roadmap</h3>
-        <p>A high-level visual guide for stakeholder communication and milestone tracking.</p>
-        <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Roadmap.md" target="_blank">View on GitHub</a>
-    </div>
-
-    <div class="card">
-        <h3>📋 Website Development Proposal</h3>
-        <p>Standardized template for business website projects, including scope and deliverables.</p>
-        <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Proposal_Template.md" target="_blank">View on GitHub</a>
+<!-- Who Is This For -->
+<section class="audience">
+    <div class="container">
+        <h2>Who Is This For?</h2>
+        <div class="audience-grid">
+            <div class="audience-card">
+                <span class="emoji">🎓</span>
+                <h3>Google PM Certificate Students</h3>
+                <p>Ready-to-use templates aligned with Google PM methodology</p>
+            </div>
+            <div class="audience-card">
+                <span class="emoji">💼</span>
+                <h3>Junior Project Managers</h3>
+                <p>Industry-standard artifacts to accelerate your PM career</p>
+            </div>
+            <div class="audience-card">
+                <span class="emoji">🚀</span>
+                <h3>IT Professionals</h3>
+                <p>Transitioning to PM roles in tech and software development</p>
+            </div>
+            <div class="audience-card">
+                <span class="emoji">📁</span>
+                <h3>Portfolio Builders</h3>
+                <p>Real-world examples to showcase in interviews and LinkedIn</p>
+            </div>
+        </div>
     </div>
 </section>
 
-<footer>
-    <p>Connect with me on <a href="#">LinkedIn</a></p>
+<!-- Templates by Phase -->
+<section id="phases" class="phases">
+    <div class="container">
+        <h2>Project Management Lifecycle Templates</h2>
+        <p class="section-subtitle">Complete templates for all 4 phases of project management</p>
+        
+        <!-- Phase 1: Initiation -->
+        <div class="phase-card">
+            <div class="phase-header phase-1">
+                <h3>🌟 Phase 1: Initiation</h3>
+                <span class="phase-number">01</span>
+            </div>
+            <div class="phase-content">
+                <p>Define project goals, scope, and stakeholders. Lay the foundation for project success.</p>
+                <div class="templates-list">
+                    <div class="template-item">
+                        <span class="template-icon">📄</span>
+                        <div>
+                            <strong>Project Proposal</strong>
+                            <p>Business case and project overview</p>
+                        </div>
+                    </div>
+                    <div class="template-item">
+                        <span class="template-icon">📋</span>
+                        <div>
+                            <strong>Project Charter</strong>
+                            <p>Official project authorization document</p>
+                        </div>
+                    </div>
+                    <div class="template-item">
+                        <span class="template-icon">👥</span>
+                        <div>
+                            <strong>Stakeholder Register</strong>
+                            <p>Identify and analyze key stakeholders</p>
+                        </div>
+                    </div>
+                </div>
+                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/01-Initiation" target="_blank" class="btn-template">View Templates →</a>
+            </div>
+        </div>
+
+        <!-- Phase 2: Planning -->
+        <div class="phase-card">
+            <div class="phase-header phase-2">
+                <h3>🔥 Phase 2: Planning</h3>
+                <span class="phase-number">02</span>
+            </div>
+            <div class="phase-content">
+                <p>Develop detailed project plans, schedules, and communication strategies.</p>
+                <div class="templates-list">
+                    <div class="template-item">
+                        <span class="template-icon">📊</span>
+                        <div>
+                            <strong>RACI Chart</strong>
+                            <p>Responsibility Assignment Matrix</p>
+                        </div>
+                    </div>
+                    <div class="template-item">
+                        <span class="template-icon">📅</span>
+                        <div>
+                            <strong>Project Plan & Schedule</strong>
+                            <p>Timeline, milestones, and deliverables</p>
+                        </div>
+                    </div>
+                    <div class="template-item">
+                        <span class="template-icon">💬</span>
+                        <div>
+                            <strong>Communication Strategy</strong>
+                            <p>Stakeholder communication plan</p>
+                        </div>
+                    </div>
+                </div>
+                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/02-Planning" target="_blank" class="btn-template">View Templates →</a>
+            </div>
+        </div>
+
+        <!-- Phase 3: Execution -->
+        <div class="phase-card">
+            <div class="phase-header phase-3">
+                <h3>👾 Phase 3: Execution</h3>
+                <span class="phase-number">03</span>
+            </div>
+            <div class="phase-content">
+                <p>Monitor progress, manage risks, and keep stakeholders informed.</p>
+                <div class="templates-list">
+                    <div class="template-item">
+                        <span class="template-icon">📈</span>
+                        <div>
+                            <strong>Status Reports</strong>
+                            <p>Weekly/bi-weekly project updates</p>
+                        </div>
+                    </div>
+                    <div class="template-item">
+                        <span class="template-icon">⚠️</span>
+                        <div>
+                            <strong>Risk Log</strong>
+                            <p>Identify and track project risks</p>
+                        </div>
+                    </div>
+                    <div class="template-item">
+                        <span class="template-icon">🎯</span>
+                        <div>
+                            <strong>ROAM Analysis</strong>
+                            <p>Resolve, Own, Accept, Mitigate</p>
+                        </div>
+                    </div>
+                </div>
+                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/03-Execution" target="_blank" class="btn-template">View Templates →</a>
+            </div>
+        </div>
+
+        <!-- Phase 4: Closing -->
+        <div class="phase-card">
+            <div class="phase-header phase-4">
+                <h3>🏆 Phase 4: Closing</h3>
+                <span class="phase-number">04</span>
+            </div>
+            <div class="phase-content">
+                <p>Wrap up projects, document lessons learned, and celebrate success.</p>
+                <div class="templates-list">
+                    <div class="template-item">
+                        <span class="template-icon">🔍</span>
+                        <div>
+                            <strong>Retrospective/Lessons Learned</strong>
+                            <p>Team reflection and insights</p>
+                        </div>
+                    </div>
+                    <div class="template-item">
+                        <span class="template-icon">📝</span>
+                        <div>
+                            <strong>Project Closeout Report</strong>
+                            <p>Final project summary and metrics</p>
+                        </div>
+                    </div>
+                    <div class="template-item">
+                        <span class="template-icon">✅</span>
+                        <div>
+                            <strong>Sign-off Documentation</strong>
+                            <p>Project acceptance and approval</p>
+                        </div>
+                    </div>
+                </div>
+                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/04-Closing" target="_blank" class="btn-template">View Templates →</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Case Study Section -->
+<section id="case-study" class="case-study">
+    <div class="container">
+        <h2>Complete Case Study: Plant Pals Project</h2>
+        <p class="section-subtitle">See all templates in action with a real-world example</p>
+        
+        <div class="case-study-grid">
+            <div class="case-study-card">
+                <div class="case-study-icon">💎</div>
+                <h3>End-to-End Implementation</h3>
+                <p>Follow the complete lifecycle of the "Plant Pals" project from initiation through closing. See how all templates work together in a real scenario.</p>
+                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/05-Portfolio" target="_blank" class="btn-template">Explore Case Study →</a>
+            </div>
+            
+            <div class="case-study-info">
+                <h4>What You'll Learn:</h4>
+                <ul>
+                    <li>✅ How to fill out each template correctly</li>
+                    <li>✅ Real-world project scenarios and challenges</li>
+                    <li>✅ Best practices for stakeholder management</li>
+                    <li>✅ Risk management and mitigation strategies</li>
+                    <li>✅ Portfolio-worthy project documentation</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Key Features -->
+<section class="features">
+    <div class="container">
+        <h2>Why Choose This Toolkit?</h2>
+        <div class="features-grid">
+            <div class="feature">
+                <span class="feature-emoji">🎯</span>
+                <h3>Google PM Certified</h3>
+                <p>Templates align with the Google Project Management Certificate curriculum and best practices</p>
+            </div>
+            <div class="feature">
+                <span class="feature-emoji">🔧</span>
+                <h3>Ready to Use</h3>
+                <p>Copy-paste templates that work immediately. No setup or customization required.</p>
+            </div>
+            <div class="feature">
+                <span class="feature-emoji">💼</span>
+                <h3>IT Focused</h3>
+                <p>Optimized for IT and software development projects with relevant examples</p>
+            </div>
+            <div class="feature">
+                <span class="feature-emoji">📚</span>
+                <h3>Complete Lifecycle</h3>
+                <p>Cover all phases from initiation through closing with integrated artifacts</p>
+            </div>
+            <div class="feature">
+                <span class="feature-emoji">🎓</span>
+                <h3>Learn by Example</h3>
+                <p>Case study shows how templates are used in real-world project scenarios</p>
+            </div>
+            <div class="feature">
+                <span class="feature-emoji">📄</span>
+                <h3>Portfolio Ready</h3>
+                <p>Professional templates suitable for including in your PM portfolio</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Quick Start -->
+<section class="quick-start">
+    <div class="container">
+        <h2>Quick Start Guide</h2>
+        <div class="steps">
+            <div class="step">
+                <span class="step-number">1</span>
+                <h3>Browse Templates</h3>
+                <p>Explore the templates organized by project phase above</p>
+            </div>
+            <div class="step">
+                <span class="step-number">2</span>
+                <h3>Study the Case Study</h3>
+                <p>Review the Plant Pals project to see how templates work together</p>
+            </div>
+            <div class="step">
+                <span class="step-number">3</span>
+                <h3>Copy & Customize</h3>
+                <p>Download templates and adapt them to your project needs</p>
+            </div>
+            <div class="step">
+                <span class="step-number">4</span>
+                <h3>Build Your Portfolio</h3>
+                <p>Use completed templates in interviews and your PM portfolio</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- About Section -->
+<section id="about" class="about">
+    <div class="container">
+        <h2>About the Author</h2>
+        <div class="about-content">
+            <h3>Valeriia Bovsunovska</h3>
+            <p>Aspiring Project Manager focused on IT and GameDev industries.</p>
+            <p>I created this toolkit to help other PMs and students navigate the project management lifecycle with confidence. These templates are based on industry best practices and the Google PM Professional Certificate methodology.</p>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/" target="_blank" class="social-link">💼 LinkedIn</a>
+                <a href="https://github.com/Valeriia458" target="_blank" class="social-link">🐙 GitHub</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Support Section -->
+<section class="support">
+    <div class="container">
+        <h2>Support This Project</h2>
+        <p>If you find these templates helpful, please:</p>
+        <div class="support-actions">
+            <div class="support-action">
+                <span class="emoji">⭐</span>
+                <h3>Star on GitHub</h3>
+                <p>Help other aspiring PMs discover these resources</p>
+            </div>
+            <div class="support-action">
+                <span class="emoji">🤝</span>
+                <h3>Contribute</h3>
+                <p>Share improvements and new templates via pull requests</p>
+            </div>
+            <div class="support-action">
+                <span class="emoji">💬</span>
+                <h3>Share Feedback</h3>
+                <p>Open an issue if you have suggestions or find issues</p>
+            </div>
+        </div>
+        <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats" target="_blank" class="btn btn-primary btn-large">Visit Repository</a>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container">
+        <p>&copy; 2026 IT Project Management Toolkit | Made with ❤️ by Valeriia Bovsunovska</p>
+        <p>
+            <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats" target="_blank">GitHub</a> • 
+            <a href="https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/" target="_blank">LinkedIn</a> • 
+            <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/blob/main/LICENSE" target="_blank">License (MIT)</a>
+        </p>
+    </div>
 </footer>
 
 </body>
