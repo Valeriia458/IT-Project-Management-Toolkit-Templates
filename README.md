@@ -21,8 +21,7 @@ Google PM Certificate holders, and project managers building their portfolios.
 ## 🚀 Quick Start
 Copy the necessary template from my Google Drive to yours
 
-## 📚 Resources
-[https://www.coursera.org/]
+[## 📚 Resources](https://www.coursera.org/)
 
 ## ✨ Why this Toolkit?
 * **End-to-End Implementation:** Includes a full implementation as a reference point.
