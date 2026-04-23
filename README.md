@@ -18,6 +18,9 @@ Google PM Certificate holders, and project managers building their portfolios.
 - IT Professionals transitioning to PM
 - Anyone building a PM portfolio
 
+## 🚀 Quick Start
+Copy the necessary template from my Google Drive to yours
+
 ## ✨ Why this Toolkit?
 * **End-to-End Implementation:** Includes a full implementation as a reference point.
 * **Standardized:** Based on the industry-leading Google PM Professional Certificate methodology.
