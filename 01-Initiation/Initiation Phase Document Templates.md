@@ -12,7 +12,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * [**Stakeholder Register:**](https://docs.google.com/presentation/d/1tLbuTcV0P43zxjE0aeAmoQGTmR5L7hHjafgIx1EYuPg/edit?usp=sharing) 💌
 * [**RACI chart:**](https://docs.google.com/spreadsheets/d/1_V8Prq79L-1eQqWvpKw_UK9-kDcYu0iCVqWe2fA1w6Y/edit?usp=sharing) 🤍
 * [**Project Kickoff Meeting Agenda Template:**](https://docs.google.com/document/d/14e72YYlRIFxL7i0XSUvt3wHZdzR2FoKzxiTz5-l4ulE/edit?usp=sharing)  📢
-* [**Initiation: Guiding questions and tips:**](https://drive.google.com/file/d/1gQp1AGNCkg4vqmfd_D9caz8TMeCA_IEo/view?usp=sharing)💛🍵<img src="images/my-template-screenshot.png" width="600" alt="Template Preview">
+* [**Initiation: Guiding questions and tips:**](https://drive.google.com/file/d/1gQp1AGNCkg4vqmfd_D9caz8TMeCA_IEo/view?usp=sharing)💛🍵<img src="images/screenshot.jpg" width="600" alt="Template Preview">
   
 
 
