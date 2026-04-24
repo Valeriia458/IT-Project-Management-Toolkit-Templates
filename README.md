@@ -22,7 +22,8 @@ Google PM Certificate holders, and project managers building their portfolios.
 Copy the necessary template from my Google Drive to yours
 
 ## 📚 Resources
-[WordLayouts](https://www.wordlayouts.com/)
+[WordLayouts](https://www.wordlayouts.com/)  
+
 [Coursera](https://www.coursera.org/)
 
 ## ✨ Why this Toolkit?
