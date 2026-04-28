@@ -1,3 +1,4 @@
+
 ![IT Project Management Toolkit](./banner.jpg)
 
 # IT Project Management Toolkit & Templates 📋
@@ -45,7 +46,7 @@ I am an aspiring Project Manager focused on the IT and GameDev industries.
 * [**My LinkedIn**](https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/)
 
 
-
+<img width="697" height="700" alt="Work from home" src="https://github.com/user-attachments/assets/94b24747-bf3f-486e-906b-1c6082ca6e10" />
 
 
 
