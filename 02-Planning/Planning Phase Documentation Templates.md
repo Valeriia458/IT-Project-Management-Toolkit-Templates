@@ -8,7 +8,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * [**WBS Brainstorm Diagram:**](https://docs.google.com/spreadsheets/d/1MK8v9-sNL0KIqUhe6YviBqLdjN61UryrGGcv1E7F65I/edit?usp=sharing) ☕️ 
 * [**WBS to create project tasks and milestones:**](https://docs.google.com/spreadsheets/d/1sLkXu7PtyvX43GP5d3LMl7yPOoYQPH4FrHuuGgAG_mI/edit?usp=sharing) ☀️
 * [**Project plan:**](https://docs.google.com/spreadsheets/d/1dMeKiY1qynAT_bfIF5G5xh9K2lIBJfDkCPCkXMtz44I/edit?usp=sharing)  🏃🏻‍♀️
-* [**Gantt chart:**](https://docs.google.com/spreadsheets/d/1JRxcleCD29aBJ8AajLtSZeuobr4d_VcVMZz1FXRqYYk/edit?usp=sharing)  👩🏻‍💻
+* [**Gantt chart:**](https://docs.google.com/spreadsheets/d/1JRxcleCD29aBJ8AajLtSZeuobr4d_VcVMZz1FXRqYYk/edit?usp=sharing)  👩🏻‍💻📊 
 * [**Resource Management Plan:**](https://docs.google.com/document/d/1oPFO-jSxKz63IhramYbqZURJtGP9KUC3d3p5q5CkM58/edit?usp=sharing) 👥🗺️
 * [**Project budget:**](https://docs.google.com/spreadsheets/d/1s4yaY40lT1Q4QTUKRtd1TDC3PtwrKLpDa026dgva3ww/edit?usp=sharing) ❤
 * [**Budget Beast Burndown Chart:**](https://docs.google.com/presentation/d/1qyBv2pLs-z-qsqt1AONzjZNCCuc-ePlaUkjk1mNPRKs/edit?usp=sharing) 🍵
