@@ -25,7 +25,11 @@ Copy the necessary template from my Google Drive to yours
 ## 📚 Resources
 [WordLayouts](https://www.wordlayouts.com/)  
 
-[Coursera](https://www.coursera.org/)
+[Coursera](https://www.coursera.org/)  
+
+[Miro](https://miro.com/index/)  
+
+[Cacoo](https://nulab.com/cacoo/)
 
 ## ✨ Why this Toolkit?
 * **End-to-End Implementation:** Includes a full implementation as a reference point.
