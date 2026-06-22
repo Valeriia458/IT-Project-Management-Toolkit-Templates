@@ -19,7 +19,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * [**Keep, Problem, Try Retrospective:**](https://nulab.com/cacoo/templates/keep-problem-try/)
 * [**Starfish Retrospective:**](https://miro.com/templates/starfish-retrospective/)
 * [**Sailboat Retrospective Template in Miro**](https://miro.com/templates/midnight-sailboat-retro/)
-
+* [**Timeline Retrospective:**](https://miro.com/templates/timeline-retrospective/) 
 * [**Closing: Guiding questions and tips:**](https://drive.google.com/file/d/1Hmy89_E-Xs8-0hV5eQgzz6fDT2of8gXK/view?usp=sharing)  💜
 
   
