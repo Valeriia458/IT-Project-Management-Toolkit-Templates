@@ -12,6 +12,8 @@ A collection of professional templates for aspiring and junior Project Managers,
 * [**Impact Report:**](https://docs.google.com/presentation/d/1Lk_AN5R8trKN9EAqW0BuvJLpXrwciCYCHGnQ9iOf2sA/edit?usp=sharing)  💻
 * [**Retrospective Review:** ](https://docs.google.com/spreadsheets/d/1mbPJnvFK4x55OC1XFLnhAXajbdL6fu54Gg0PmaRPdgQ/edit?usp=sharing
 )  🙂
+* [**Start, Stop, Continue Retrospective:**](https://miro.com/templates/start-stop-continue-basic/)
+* [**Quick Retrospective:**](https://nulab.com/cacoo/templates/easy-retro/)
 * [**Closing: Guiding questions and tips:**](https://drive.google.com/file/d/1Hmy89_E-Xs8-0hV5eQgzz6fDT2of8gXK/view?usp=sharing)  💜
 
   
