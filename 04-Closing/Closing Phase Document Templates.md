@@ -9,6 +9,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * [**Project Asset Inventory**](https://docs.google.com/document/d/1ySCZsjEggkthMtq87qB-SQyB32CctZ_m-YiSX-uxcfQ/edit?usp=sharing)  📦
 * [**Сloseout report**](https://docs.google.com/document/d/17OdiW0L7QjAWs4YtRb020UqshNKV4xqa1zy2dChBgJI/edit?usp=sharing)  👩🏻‍💻
 * [**Impact Report**](https://docs.google.com/presentation/d/1Lk_AN5R8trKN9EAqW0BuvJLpXrwciCYCHGnQ9iOf2sA/edit?usp=sharing)  💻
+* [**Retrospective Pre-Meeting Reflection**](https://docs.google.com/document/d/1aRF2LMSYGKe_Q3Dc3BmcmXmu_6lXhF9r7Ryr2QLnCYU/edit?usp=sharing)
 * [**Retrospective Review** ](https://docs.google.com/spreadsheets/d/1mbPJnvFK4x55OC1XFLnhAXajbdL6fu54Gg0PmaRPdgQ/edit?usp=sharing
 )  🙂
 * [**Start, Stop, Continue Retrospective**](https://miro.com/templates/start-stop-continue-basic/)🚥
