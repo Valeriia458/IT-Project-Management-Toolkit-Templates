@@ -5,8 +5,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 ## 📂 What's Inside?
 ### 4. Closing Phase
 * [**Stakeholder Acceptance Sign-off**](https://docs.google.com/document/d/1g5VQEc--6uCxyXhmdJ01O2hbHAj59ZBRvzES6tl4ORE/edit?usp=sharing)  ✅
-* [**Project Handover & Support Documentation
-**](https://docs.google.com/document/d/1MPQ-JojhR8GBTcsMUanyFF_fuaxKY20ufwH_-tX7Kog/edit?usp=sharing)  👩
+* [**Project Handover & Support Documentation**](https://docs.google.com/document/d/1MPQ-JojhR8GBTcsMUanyFF_fuaxKY20ufwH_-tX7Kog/edit?usp=sharing)  👩
 * [**Project Asset Inventory**](https://docs.google.com/document/d/1ySCZsjEggkthMtq87qB-SQyB32CctZ_m-YiSX-uxcfQ/edit?usp=sharing)  📦
 * [**Сloseout report**](https://docs.google.com/document/d/17OdiW0L7QjAWs4YtRb020UqshNKV4xqa1zy2dChBgJI/edit?usp=sharing)  👩🏻‍💻
 * [**Impact Report**](https://docs.google.com/presentation/d/1Lk_AN5R8trKN9EAqW0BuvJLpXrwciCYCHGnQ9iOf2sA/edit?usp=sharing)  💻
