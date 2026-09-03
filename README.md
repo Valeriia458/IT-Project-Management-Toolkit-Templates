@@ -22,12 +22,17 @@ Google PM Certificate holders, and project managers building their portfolios.
 ## 🚀 Quick Start
 Copy the necessary template from my Google Drive to yours
 
-## 📚 Resources
+## 👩🏻‍💻 Resources
 [WordLayouts](https://www.wordlayouts.com/)  
 [Coursera](https://www.coursera.org/)  
 [Miro](https://miro.com/index/)  
 [Cacoo](https://nulab.com/cacoo/)  
 [TeamRetro](https://www.teamretro.com/)
+
+## 📚📚 Project Mnagement Books
+
+[Herding Cats: A Primer for Programmers Who Lead Programmers
+by J. Hank Rainwater, 2002](https://drive.google.com/file/d/1QMz9CT6QLwCn2kRkE2CNePH5bg5SOjZK/view?usp=sharing)
 
 ## ✨ Why this Toolkit?
 * **End-to-End Implementation:** Includes a full implementation as a reference point.
