@@ -23,11 +23,15 @@ Google PM Certificate holders, and project managers building their portfolios.
 Copy the necessary template from my Google Drive to yours
 
 ## 👩🏻‍💻 Resources
-[WordLayouts](https://www.wordlayouts.com/)  
-[Coursera](https://www.coursera.org/)  
-[Miro](https://miro.com/index/)  
-[Cacoo](https://nulab.com/cacoo/)  
-[TeamRetro](https://www.teamretro.com/)
+[WordLayouts](https://www.wordlayouts.com/) <br>
+[Coursera](https://www.coursera.org/) <br>
+[Miro](https://miro.com/index/) <br>
+[Cacoo](https://nulab.com/cacoo/) <br> 
+[TeamRetro](https://www.teamretro.com/) <br>
+[Project Management Docs](https://www.projectmanagementdocs.com/) <br>
+[Atlassian](https://www.atlassian.com/project-management/templates) <br>
+[Smartsheet](https://www.smartsheet.com/content/project-management-plan-templates) <br>
+[Airtable](https://www.airtable.com/templates/project-management/expnPwND0WA2x7nhJ) 
 
 ## 📚📚 Project Management Books
 
