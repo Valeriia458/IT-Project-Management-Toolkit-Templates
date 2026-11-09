@@ -51,7 +51,10 @@ by J. Hank Rainwater, 2002](https://drive.google.com/file/d/1QMz9CT6QLwCn2kRkE2C
 MIT - Free to use!
 
 ## 🤝 Contributing
-Contributions are welcomed! If you have improved templates, a new artifact, or found a bug, please submit a pull request.
+
+Contributions are welcome! Whether you'd like to suggest a new template, improve an existing one, report an issue, or share an idea, your input is appreciated.
+Please read our [Contributing Guidelines](CONTRIBUTING.md) to learn how to get involved.
+Let's make project management easier and more accessible together!
 
 ## ⭐ How to support
 If you find these templates helpful for your PM journey, please **give this repository a star!** It helps other aspiring PMs find these resources and supports my professional growth.
