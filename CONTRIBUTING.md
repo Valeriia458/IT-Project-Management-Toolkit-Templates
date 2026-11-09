@@ -20,4 +20,4 @@ First off, thank you for considering contributing! It’s people like you that m
 
 ## Style Guide
 * **Filenames:** Use lowercase and hyphens (e.g., `sprint-backlog-template.md`).
-* **Headers:** Use standard Markdown `#` for titles and `##` for sections.
+* **Headers:** Use standard Markdown `##` for titles.
