@@ -12,7 +12,7 @@ Google PM Certificate holders, and project managers building their portfolios.
 3. [**03-Execution**](./03-Execution) - Status Reports, Risk Logs, and ROAM Analysis.👾
 4. [**04-Closing**](./04-Closing) - Retrospectives and Project Closeout Reports.🏆
 5. [**Portfolio Artifacts**](./05-Portfolio) - **End-to-End Implementation:** See the full lifecycle of the "Plant Pals" project implementation.💎
-6. [**Game Development Templates**](./06-Game Development)
+6. [**Game Development Templates**](https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/tree/main/06-Game%20Development)
 ## 🎯 Who Is This For?
 - Students pursuing Google PM Certificate
 - Junior Project Managers
