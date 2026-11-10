@@ -1,4 +1,4 @@
-# 🚀 IT Project Management Toolkit for Project Managers in Game Dev
+# 🎮🚀 Game Development Project Management Toolkit 
 ## 📂 What's Inside?  
 
 **Game Design Document (GDD)**  
