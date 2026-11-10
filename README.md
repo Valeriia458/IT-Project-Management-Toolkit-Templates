@@ -3,8 +3,7 @@
 
 # IT Project Management Toolkit & Templates 📋
 
-Professional project management templates and artifacts designed for IT professionals, 
-Google PM Certificate holders, and project managers building their portfolios.
+## Professional project management templates and artifacts designed for IT and GameDev professionals, Project Managers, and aspiring specialists building their portfolios.
 ---
 ## ✨ What's Included
 1. [**01-Initiation**](./01-Initiation) - Proposal, Project Charters and Stakeholder Registers.🌟🌿
