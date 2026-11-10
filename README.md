@@ -15,7 +15,7 @@
 ## 🎯 Who Is This For?
 - Aspiring and Junior Project Managers
 - IT and GameDev professionals transitioning into Project Management
-- Game Designers, Developers, and other GameDev team members
+- GameDev Project Managers, and other GameDev team members
 - Professionals looking for practical project management resources
 - Anyone building a Project Management portfolio
 ## 🚀 Quick Start
