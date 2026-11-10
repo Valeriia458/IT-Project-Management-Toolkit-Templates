@@ -13,11 +13,11 @@
 5. [**05-Portfolio Artifacts**](./05-Portfolio) - **End-to-End Implementation:** See the full lifecycle of the "Plant Pals" project implementation.💎
 6. [**06-Game Development**](https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/tree/main/06-Game%20Development) - Main documentation for Game Development🎮
 ## 🎯 Who Is This For?
-- Students pursuing Google PM Certificate
-- Junior Project Managers
-- IT Professionals transitioning to PM
-- Anyone building a PM portfolio
-
+- Aspiring and Junior Project Managers
+- IT and GameDev professionals transitioning into Project Management
+- Game Designers, Developers, and other GameDev team members
+- Professionals looking for practical project management resources
+- Anyone building a Project Management portfolio
 ## 🚀 Quick Start
 Copy the necessary template from my Google Drive to yours
 
