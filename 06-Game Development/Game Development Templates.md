@@ -1,4 +1,4 @@
-# 🎮🚀 Game Development Project Management Toolkit 
+# 🎮🚀 Project Management Templates for Game Development Teams
 ## 📂 What's Inside?  
 
 **Game Design Document (GDD)**  
@@ -6,8 +6,6 @@
 **Game Production Plan**  
 **Level Design Document (LDD)**  
 **Game Test Plan**  
-
-
 
    
 
