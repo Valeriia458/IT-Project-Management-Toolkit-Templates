@@ -31,11 +31,11 @@
     --surface-hover-color: #fbfcfb;
     --surface-muted-color: #f7faf8;
     --surface-subtle-color: #f7f8f5;
-    --tag-document-background-color: #edf3ee;
-    --tag-spreadsheet-background-color: #f8f2e4;
-    --tag-presentation-background-color: #edf3f5;
-    --tag-guide-background-color: #fbf1ed;
-    --tag-retrospective-background-color: #f4ede7;
+    --tag-document-background-color: #e4f5e8;
+    --tag-spreadsheet-background-color: #fff0b8;
+    --tag-presentation-background-color: #d9f0ff;
+    --tag-guide-background-color: #ffe1d2;
+    --tag-retrospective-background-color: #f1ddff;
 
     --border-color: #dce5df;
     --border-strong-color: #aeb8b3;
@@ -45,11 +45,11 @@
     --border-dashed-color: #9aa8a1;
     --coming-soon-color: #65744c;
 
-    --phase-1: #fff5d9;
-    --phase-2: #fbeaf0;
-    --phase-3: #e5f5f3;
-    --phase-4: #edf5ee;
-    --phase-game: #f0eafa;
+    --phase-1: #fff0a8;
+    --phase-2: #ffd8e5;
+    --phase-3: #bfeee8;
+    --phase-4: #d8f0d7;
+    --phase-game: #e2d3ff;
     
     --spacing-xs: 0.5rem;
     --spacing-sm: 1rem;
@@ -501,10 +501,10 @@ textarea:focus-visible {
     opacity: 0.3;
 }
 
-.phase-1 { background: var(--phase-1); color: var(--text-color); }
-.phase-2 { background: var(--phase-2); color: var(--text-color); }
-.phase-3 { background: var(--phase-3); color: var(--text-color); }
-.phase-4 { background: var(--phase-4); color: var(--text-color); }
+.phase-1 { background: var(--phase-1); border-top: 4px solid var(--accent-gold-color); color: var(--text-color); }
+.phase-2 { background: var(--phase-2); border-top: 4px solid var(--accent-pink-color); color: var(--text-color); }
+.phase-3 { background: var(--phase-3); border-top: 4px solid var(--accent-teal-color); color: var(--text-color); }
+.phase-4 { background: var(--phase-4); border-top: 4px solid var(--accent-color); color: var(--text-color); }
 
 .phase-content {
     padding: var(--spacing-lg);
@@ -1024,6 +1024,7 @@ textarea:focus-visible {
 
 .phase-game {
     background: var(--phase-game);
+    border-top: 4px solid var(--accent-plum-color);
     color: var(--text-color);
 }
 
