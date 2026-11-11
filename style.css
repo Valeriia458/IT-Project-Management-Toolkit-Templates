@@ -16,6 +16,7 @@
     --accent-berry-color: #a92c4c;
     --accent-coral-color: #b53c25;
     --accent-blue-color: #315f9b;
+    --accent-pink-color: #b43c75;
 
     --dark-color: #1f3028;
     --text-color: #26352d;
@@ -44,11 +45,11 @@
     --border-dashed-color: #9aa8a1;
     --coming-soon-color: #65744c;
 
-    --phase-1: #f4f7f5;
-    --phase-2: #f7f8f5;
-    --phase-3: #f2f5f4;
-    --phase-4: #f5f7f5;
-    --phase-game: #f2f5f3;
+    --phase-1: #fff5d9;
+    --phase-2: #fbeaf0;
+    --phase-3: #e5f5f3;
+    --phase-4: #edf5ee;
+    --phase-game: #f0eafa;
     
     --spacing-xs: 0.5rem;
     --spacing-sm: 1rem;
@@ -440,16 +441,20 @@ textarea:focus-visible {
     border-left: 3px solid var(--audience-accent-color, var(--accent-color));
 }
 
+.audience-card:nth-child(1) h3 {
+    --audience-accent-color: var(--accent-plum-color);
+}
+
 .audience-card:nth-child(2) h3 {
-    --audience-accent-color: var(--accent-warm-color);
+    --audience-accent-color: var(--accent-pink-color);
 }
 
 .audience-card:nth-child(3) h3 {
-    --audience-accent-color: var(--accent-gold-color);
+    --audience-accent-color: var(--accent-teal-color);
 }
 
 .audience-card:nth-child(4) h3 {
-    --audience-accent-color: var(--accent-cool-color);
+    --audience-accent-color: var(--accent-blue-color);
 }
 
 /* Phases Section */
