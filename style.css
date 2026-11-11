@@ -4,19 +4,20 @@
 
 /* Color palette */
 :root {
-    --primary-color: #286448;
-    --primary-hover-color: #1f5039;
+    --primary-color: #1f7a43;
+    --primary-hover-color: #175f34;
     --secondary-color: var(--primary-color);
-    --accent-color: #527a65;
-    --accent-warm-color: #a4472d;
-    --accent-gold-color: #805b00;
-    --accent-cool-color: #3e6475;
-    --accent-plum-color: #5d2f87;
-    --accent-teal-color: #006b68;
-    --accent-berry-color: #a92c4c;
-    --accent-coral-color: #b53c25;
-    --accent-blue-color: #315f9b;
-    --accent-pink-color: #b43c75;
+    --accent-color: #328454;
+    --accent-warm-color: #c34d22;
+    --accent-gold-color: #9a6a00;
+    --accent-cool-color: #237c99;
+    --accent-plum-color: #7040ab;
+    --accent-teal-color: #00877e;
+    --accent-berry-color: #cb2f54;
+    --accent-coral-color: #d84324;
+    --accent-blue-color: #256fc3;
+    --accent-pink-color: #d42c82;
+    --accent-lime-color: #86a900;
 
     --dark-color: #1f3028;
     --text-color: #26352d;
@@ -31,11 +32,11 @@
     --surface-hover-color: #fbfcfb;
     --surface-muted-color: #f7faf8;
     --surface-subtle-color: #f7f8f5;
-    --tag-document-background-color: #e4f5e8;
-    --tag-spreadsheet-background-color: #fff0b8;
-    --tag-presentation-background-color: #d9f0ff;
-    --tag-guide-background-color: #ffe1d2;
-    --tag-retrospective-background-color: #f1ddff;
+    --tag-document-background-color: #d6f5dc;
+    --tag-spreadsheet-background-color: #ffea8a;
+    --tag-presentation-background-color: #c7edff;
+    --tag-guide-background-color: #ffd2b8;
+    --tag-retrospective-background-color: #e8ccff;
 
     --border-color: #dce5df;
     --border-strong-color: #aeb8b3;
@@ -45,11 +46,11 @@
     --border-dashed-color: #9aa8a1;
     --coming-soon-color: #65744c;
 
-    --phase-1: #fff0a8;
-    --phase-2: #ffd8e5;
-    --phase-3: #bfeee8;
-    --phase-4: #d8f0d7;
-    --phase-game: #e2d3ff;
+    --phase-1: #ffec78;
+    --phase-2: #ffc0d6;
+    --phase-3: #8ce8dc;
+    --phase-4: #b9ed91;
+    --phase-game: #ddc5ff;
     
     --spacing-xs: 0.5rem;
     --spacing-sm: 1rem;
@@ -649,7 +650,7 @@ textarea:focus-visible {
 }
 
 .feature:nth-child(6) {
-    border-top-color: var(--accent-blue-color);
+    border-top-color: var(--accent-lime-color);
 }
 
 .feature p {
@@ -1024,7 +1025,7 @@ textarea:focus-visible {
 
 .phase-game {
     background: var(--phase-game);
-    border-top: 4px solid var(--accent-plum-color);
+    border-top: 4px solid var(--accent-lime-color);
     color: var(--text-color);
 }
 
