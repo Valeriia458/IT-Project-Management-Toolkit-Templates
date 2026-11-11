@@ -11,7 +11,7 @@
 3. [**03-Execution**](./03-Execution) - Status Reports, Risk Logs, and ROAM Analysis.👾
 4. [**04-Closing**](./04-Closing) - Retrospectives and Project Closeout Reports.🏆
 5. [**05-Portfolio Artifacts**](./05-Portfolio) - **End-to-End Implementation:** See the full lifecycle of the "Plant Pals" project implementation.💎
-6. [**06-Game Development**](https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/tree/main/06-Game%20Development) - Main documentation for Game Development🎮
+6. [**06-Game Development**](https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/tree/main/06-Game-Development) - Main documentation for Game Development🎮
 ## 🎯 Who Is This For?
 - Aspiring and Junior Project Managers
 - IT and GameDev professionals transitioning into Project Management
