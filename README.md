@@ -19,7 +19,7 @@
 - Professionals looking for practical project management resources
 - Anyone building a Project Management portfolio
 ## 🚀 Quick Start
-Copy the necessary template from my Google Drive to yours
+Open a template from a phase document list. For Google Docs, Sheets, or Slides, choose **File → Make a copy** to save an editable copy to your Google Drive. Miro, Cacoo, and TeamRetro templates open on their provider's sites and can be copied using the options there. The Markdown files in this repository are indexes with links to the templates.
 
 ## 👩🏻‍💻 Resources
 [WordLayouts](https://www.wordlayouts.com/) <br>
