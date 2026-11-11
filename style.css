@@ -51,6 +51,11 @@
     --phase-3: #d3ebe6;
     --phase-4: #dceacd;
     --phase-game: #e4d8f0;
+    --phase-1-accent: #c9a94f;
+    --phase-2-accent: #cc829a;
+    --phase-3-accent: #58a99a;
+    --phase-4-accent: #79a85f;
+    --phase-game-accent: #9b7ac0;
     
     --spacing-xs: 0.5rem;
     --spacing-sm: 1rem;
@@ -502,10 +507,10 @@ textarea:focus-visible {
     opacity: 0.3;
 }
 
-.phase-1 { background: var(--phase-1); border-top: 4px solid var(--accent-gold-color); color: var(--text-color); }
-.phase-2 { background: var(--phase-2); border-top: 4px solid var(--accent-pink-color); color: var(--text-color); }
-.phase-3 { background: var(--phase-3); border-top: 4px solid var(--accent-teal-color); color: var(--text-color); }
-.phase-4 { background: var(--phase-4); border-top: 4px solid var(--accent-color); color: var(--text-color); }
+.phase-1 { background: var(--phase-1); border-top: 4px solid var(--phase-1-accent); color: var(--text-color); }
+.phase-2 { background: var(--phase-2); border-top: 4px solid var(--phase-2-accent); color: var(--text-color); }
+.phase-3 { background: var(--phase-3); border-top: 4px solid var(--phase-3-accent); color: var(--text-color); }
+.phase-4 { background: var(--phase-4); border-top: 4px solid var(--phase-4-accent); color: var(--text-color); }
 
 .phase-content {
     padding: var(--spacing-lg);
@@ -1025,7 +1030,7 @@ textarea:focus-visible {
 
 .phase-game {
     background: var(--phase-game);
-    border-top: 4px solid var(--accent-lime-color);
+    border-top: 4px solid var(--phase-game-accent);
     color: var(--text-color);
 }
 
