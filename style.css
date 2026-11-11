@@ -2,16 +2,36 @@
    IT Project Management Toolkit - Styles
    ========================================== */
 
-/* Root Variables */
+/* Color palette */
 :root {
     --primary-color: #286448;
-    --secondary-color: #286448;
+    --primary-hover-color: #1f5039;
+    --secondary-color: var(--primary-color);
     --accent-color: #527a65;
+    --accent-warm-color: #b65f43;
+    --accent-gold-color: #987126;
+    --accent-cool-color: #54727f;
+
     --dark-color: #1f3028;
-    --light-color: #f4f7f5;
-    --border-color: #dce5df;
     --text-color: #26352d;
     --text-light: #5b6b61;
+    --text-inverse-color: #e1e4e8;
+    --text-on-dark-color: #ffffff;
+    --footer-link-color: #79c0ff;
+
+    --light-color: #f4f7f5;
+    --surface-color: #ffffff;
+    --surface-hover-color: #fbfcfb;
+    --surface-muted-color: #f7faf8;
+    --surface-subtle-color: #f7f8f5;
+
+    --border-color: #dce5df;
+    --border-strong-color: #aeb8b3;
+    --border-subtle-color: #becbc2;
+    --border-accent-color: #b7c8bc;
+    --border-muted-color: #9aaf9f;
+    --border-dashed-color: #9aa8a1;
+    --coming-soon-color: #65744c;
 
     --phase-1: #edf3ee;
     --phase-2: #e9f0eb;
@@ -44,7 +64,7 @@ body {
     font-size: 0.96rem;
     line-height: 1.55;
     color: var(--text-color);
-    background-color: #ffffff;
+    background-color: var(--surface-color);
 }
 
 .container {
@@ -100,19 +120,19 @@ textarea:focus-visible {
     padding: 0.65rem 1rem;
     transform: translateY(-200%);
     background: var(--dark-color);
-    color: #fff;
+    color: var(--text-on-dark-color);
 }
 
 .skip-link:focus {
     transform: translateY(0);
-    color: #fff;
+    color: var(--text-on-dark-color);
 }
 
 /* Navigation Bar */
 .navbar {
-    background-color: #fff;
+    background-color: var(--surface-color);
     border-bottom: 1px solid var(--border-color);
-    color: white;
+    color: var(--text-on-dark-color);
     padding: 0.8rem 0;
     position: sticky;
     top: 0;
@@ -154,7 +174,7 @@ textarea:focus-visible {
 
 .btn-github {
     background-color: var(--dark-color);
-    color: white !important;
+    color: var(--text-on-dark-color) !important;
     padding: 0.5rem 1rem;
     border-radius: var(--border-radius);
     font-weight: 600;
@@ -179,11 +199,11 @@ textarea:focus-visible {
 
 .btn-primary {
     background-color: var(--primary-color);
-    color: white;
+    color: var(--text-on-dark-color);
 }
 
 .btn-primary:hover {
-    background-color: #1f5039;
+    background-color: var(--primary-hover-color);
 }
 
 .btn-secondary {
@@ -194,14 +214,14 @@ textarea:focus-visible {
 
 .btn-secondary:hover {
     background-color: var(--secondary-color);
-    color: white;
+    color: var(--text-on-dark-color);
 }
 
 .btn-template {
     display: inline-block;
     padding: 0.5rem 1rem;
     background-color: var(--secondary-color);
-    color: white;
+    color: var(--text-on-dark-color);
     border-radius: var(--border-radius);
     font-weight: 600;
     font-size: 0.9rem;
@@ -210,7 +230,7 @@ textarea:focus-visible {
 }
 
 .btn-template:hover {
-    background-color: #1f5039;
+    background-color: var(--primary-hover-color);
 }
 
 .btn-large {
@@ -273,16 +293,16 @@ textarea:focus-visible {
 }
 
 .hero .btn-primary:hover {
-    background: #1f5039;
+    background: var(--primary-hover-color);
 }
 
 .hero .btn-secondary {
     color: var(--text-color);
-    border-color: #becbc2;
+    border-color: var(--border-subtle-color);
 }
 
 .hero .btn-secondary:hover {
-    background: white;
+    background: var(--surface-color);
     border-color: var(--text-color);
     color: var(--text-color);
 }
@@ -318,7 +338,7 @@ textarea:focus-visible {
     flex-direction: column;
     align-items: flex-start;
     padding: clamp(1.25rem, 2.5vw, 1.75rem);
-    background: white;
+    background: var(--surface-color);
     color: var(--text-color);
     border: 1px solid var(--border-color);
     border-left: 3px solid var(--primary-color);
@@ -328,8 +348,8 @@ textarea:focus-visible {
 
 .hero-case-study:hover {
     color: var(--text-color);
-    background: #fbfcfb;
-    border-color: #b7c8bc;
+    background: var(--surface-hover-color);
+    border-color: var(--border-accent-color);
 }
 
 .hero-case-study:focus-visible {
@@ -419,7 +439,7 @@ textarea:focus-visible {
 }
 
 .phase-card {
-    background-color: white;
+    background-color: var(--surface-color);
     border-radius: var(--border-radius);
     overflow: hidden;
     margin-bottom: var(--spacing-lg);
@@ -429,7 +449,7 @@ textarea:focus-visible {
 
 .phase-header {
     padding: var(--spacing-lg);
-    color: white;
+    color: var(--text-on-dark-color);
     position: relative;
     display: flex;
     justify-content: space-between;
@@ -697,24 +717,24 @@ textarea:focus-visible {
 /* Footer */
 .footer {
     background-color: var(--dark-color);
-    color: #e1e4e8;
+    color: var(--text-inverse-color);
     padding: 1.5rem var(--spacing-md);
     text-align: center;
     margin-top: 0;
 }
 
 .footer a {
-    color: #79c0ff;
+    color: var(--footer-link-color);
     transition: color var(--transition);
 }
 
 .footer a:hover {
-    color: white;
+    color: var(--text-on-dark-color);
 }
 
 .footer p {
     margin-bottom: var(--spacing-sm);
-    color: #e1e4e8;
+    color: var(--text-inverse-color);
 }
 
 /* Responsive Design */
@@ -856,7 +876,7 @@ textarea:focus-visible {
     grid-template-columns: minmax(240px, 1fr) minmax(180px, 0.55fr) minmax(180px, 0.55fr);
     gap: 0.85rem;
     padding: 1rem;
-    background: #fff;
+    background: var(--surface-color);
     border: 1px solid var(--border-color);
     border-radius: var(--border-radius);
 }
@@ -874,9 +894,9 @@ textarea:focus-visible {
     width: 100%;
     min-height: 2.75rem;
     padding: 0.55rem 0.7rem;
-    border: 1px solid #aeb8b3;
+    border: 1px solid var(--border-strong-color);
     border-radius: 4px;
-    background: #fff;
+    background: var(--surface-color);
     color: var(--text-color);
     font: inherit;
     font-weight: 400;
@@ -892,7 +912,7 @@ textarea:focus-visible {
 .access-note {
     margin: 0.9rem 0 1.5rem;
     padding-left: 0.75rem;
-    border-left: 2px solid #9aaf9f;
+    border-left: 2px solid var(--border-muted-color);
     color: var(--text-light);
     font-size: 0.88rem;
 }
@@ -971,7 +991,7 @@ textarea:focus-visible {
     min-width: 0;
     min-height: 4.25rem;
     padding: 0.8rem 1rem;
-    background: #fff;
+    background: var(--surface-color);
     color: var(--text-color);
     transition: background-color var(--transition), box-shadow var(--transition);
 }
@@ -985,7 +1005,7 @@ textarea:focus-visible {
 }
 
 a.document-link:hover {
-    background: #f7faf8;
+    background: var(--surface-muted-color);
     color: var(--text-color);
     box-shadow: inset 3px 0 var(--primary-color);
 }
@@ -1021,16 +1041,16 @@ a.document-link:focus-visible,
 }
 
 .coming-soon-item {
-    background: #f7f8f5;
+    background: var(--surface-subtle-color);
 }
 
 .coming-soon-item .document-type {
-    color: #65744c;
+    color: var(--coming-soon-color);
 }
 
 .catalog-empty {
     padding: var(--spacing-lg);
-    border: 1px dashed #9aa8a1;
+    border: 1px dashed var(--border-dashed-color);
     color: var(--text-light);
     text-align: center;
 }
