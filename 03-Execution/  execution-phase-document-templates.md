@@ -1,9 +1,9 @@
 
 
-# 🚀 IT Project Management Toolkit
+# IT Project Management Toolkit
 A collection of professional templates for aspiring and junior Project Managers, inspired by the Google PM Certificate and real-world IT workflows.
 
-## 📂 What's Inside?
+## What's Inside?
 ### 3. Execution Phase
 * [**Roadmap**](https://docs.google.com/document/d/1CfSzBMg0Zz3X-jWWPnStJzJoer9qo6GmGguCpOJniPA/edit?usp=sharing)⚡
 * [**Daily Standup Meeting Notes**](https://docs.google.com/document/d/18cvYb2mPXW16Gh_ZDC56b7pYifdAZuJQQFVQnPtHFu0/edit?usp=sharing)📢
@@ -21,6 +21,5 @@ A collection of professional templates for aspiring and junior Project Managers,
 
 
 
-## ⭐ How to Support
+## How to Support
 If you find these templates helpful for your PM journey, please **give this repository a star!** It helps other aspiring PMs find these resources.
-

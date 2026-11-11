@@ -83,6 +83,31 @@ a:hover {
     color: var(--primary-color);
 }
 
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 3px;
+}
+
+.skip-link {
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+    z-index: 200;
+    padding: 0.65rem 1rem;
+    transform: translateY(-200%);
+    background: var(--dark-color);
+    color: #fff;
+}
+
+.skip-link:focus {
+    transform: translateY(0);
+    color: #fff;
+}
+
 /* Navigation Bar */
 .navbar {
     background-color: #fff;
@@ -109,11 +134,16 @@ a:hover {
 .nav-links {
     list-style: none;
     display: flex;
+    flex-wrap: wrap;
     gap: var(--spacing-lg);
     align-items: center;
+    justify-content: flex-end;
 }
 
 .nav-links a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.75rem;
     color: var(--text-light);
     transition: color var(--transition);
 }
@@ -462,7 +492,7 @@ a:hover {
 }
 
 .case-study h2,
-.case-study h4 {
+.case-study h3 {
     color: var(--text-color);
 }
 
@@ -695,11 +725,14 @@ a:hover {
     
     .navbar .container {
         flex-direction: column;
+        align-items: center;
         gap: var(--spacing-md);
     }
     
     .nav-links {
+        width: 100%;
         gap: var(--spacing-md);
+        justify-content: center;
     }
     
     .hero-layout {
@@ -851,7 +884,8 @@ a:hover {
 
 .catalog-toolbar input:focus,
 .catalog-toolbar select:focus {
-    outline: 3px solid rgba(40, 100, 72, 0.18);
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
     border-color: var(--primary-color);
 }
 
@@ -889,6 +923,7 @@ a:hover {
     color: var(--primary-color);
     font-size: 1.25rem;
     font-weight: 700;
+    opacity: 1;
 }
 
 .catalog-phase-heading h3 {
