@@ -4,20 +4,20 @@
 
 /* Color palette */
 :root {
-    --primary-color: #356f49;
-    --primary-hover-color: #2a5b3b;
+    --primary-color: #416c4f;
+    --primary-hover-color: #375c44;
     --secondary-color: var(--primary-color);
-    --accent-color: #609f70;
-    --accent-warm-color: #9f7360;
-    --accent-gold-color: #9f8f60;
-    --accent-cool-color: #608f9f;
-    --accent-plum-color: #7f609f;
-    --accent-teal-color: #609f95;
-    --accent-berry-color: #9f6070;
-    --accent-coral-color: #9f6860;
-    --accent-blue-color: #607a9f;
-    --accent-pink-color: #9f6085;
-    --accent-lime-color: #8f9f60;
+    --accent-color: #699674;
+    --accent-warm-color: #967669;
+    --accent-gold-color: #968b69;
+    --accent-cool-color: #698b96;
+    --accent-plum-color: #7f6996;
+    --accent-teal-color: #69968f;
+    --accent-berry-color: #966974;
+    --accent-coral-color: #966f69;
+    --accent-blue-color: #697c96;
+    --accent-pink-color: #966983;
+    --accent-lime-color: #8b9669;
 
     --dark-color: #1f3028;
     --text-color: #26352d;
@@ -32,11 +32,11 @@
     --surface-hover-color: #fbfcfb;
     --surface-muted-color: #f7faf8;
     --surface-subtle-color: #f7f8f5;
-    --tag-document-background-color: #d5ebdb;
-    --tag-spreadsheet-background-color: #ebe6d5;
-    --tag-presentation-background-color: #d5e6eb;
-    --tag-guide-background-color: #ebdcd5;
-    --tag-retrospective-background-color: #e0d5eb;
+    --tag-document-background-color: #deede2;
+    --tag-spreadsheet-background-color: #ede9de;
+    --tag-presentation-background-color: #dee9ed;
+    --tag-guide-background-color: #ede3de;
+    --tag-retrospective-background-color: #e6deed;
 
     --border-color: #dce5df;
     --border-strong-color: #aeb8b3;
@@ -46,11 +46,11 @@
     --border-dashed-color: #9aa8a1;
     --coming-soon-color: #65744c;
 
-    --phase-1: #e9dfc4;
-    --phase-2: #e9c4d0;
-    --phase-3: #c4e9e6;
-    --phase-4: #d0e9c4;
-    --phase-game: #d6c8e5;
+    --phase-1: #e6e2d6;
+    --phase-2: #e6d6db;
+    --phase-3: #d6e6e4;
+    --phase-4: #dbe6d6;
+    --phase-game: #ded6e6;
     
     --spacing-xs: 0.5rem;
     --spacing-sm: 1rem;
