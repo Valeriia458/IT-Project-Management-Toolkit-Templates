@@ -11,8 +11,9 @@
     --accent-warm-color: #b65f43;
     --accent-gold-color: #987126;
     --accent-cool-color: #54727f;
-    --accent-plum-color: #75658f;
-    --accent-teal-color: #3d7a78;
+    --accent-plum-color: #68458a;
+    --accent-teal-color: #287c7a;
+    --accent-berry-color: #b94f68;
 
     --dark-color: #1f3028;
     --text-color: #26352d;
@@ -630,6 +631,10 @@ textarea:focus-visible {
 
 .feature:nth-child(5) {
     border-top-color: var(--accent-teal-color);
+}
+
+.feature:nth-child(3) {
+    border-top-color: var(--accent-berry-color);
 }
 
 .feature p {
