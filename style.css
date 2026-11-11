@@ -21,9 +21,15 @@
 
     --light-color: #f4f7f5;
     --surface-color: #ffffff;
+    --hero-background-color: #fbf6ec;
     --surface-hover-color: #fbfcfb;
     --surface-muted-color: #f7faf8;
     --surface-subtle-color: #f7f8f5;
+    --tag-document-background-color: #edf3ee;
+    --tag-spreadsheet-background-color: #f8f2e4;
+    --tag-presentation-background-color: #edf3f5;
+    --tag-guide-background-color: #fbf1ed;
+    --tag-retrospective-background-color: #f4ede7;
 
     --border-color: #dce5df;
     --border-strong-color: #aeb8b3;
@@ -34,9 +40,10 @@
     --coming-soon-color: #65744c;
 
     --phase-1: #edf3ee;
-    --phase-2: #e9f0eb;
-    --phase-3: #eaf2f1;
-    --phase-4: #f0f3ef;
+    --phase-2: #f8f2e4;
+    --phase-3: #edf3f5;
+    --phase-4: #f4ede7;
+    --phase-game: #eaf1ed;
     
     --spacing-xs: 0.5rem;
     --spacing-sm: 1rem;
@@ -200,6 +207,7 @@ textarea:focus-visible {
 .btn-primary {
     background-color: var(--primary-color);
     color: var(--text-on-dark-color);
+    border-bottom: 3px solid var(--accent-gold-color);
 }
 
 .btn-primary:hover {
@@ -209,7 +217,7 @@ textarea:focus-visible {
 .btn-secondary {
     background-color: transparent;
     color: var(--secondary-color);
-    border: 2px solid var(--secondary-color);
+    border: 2px solid var(--accent-cool-color);
 }
 
 .btn-secondary:hover {
@@ -222,6 +230,7 @@ textarea:focus-visible {
     padding: 0.5rem 1rem;
     background-color: var(--secondary-color);
     color: var(--text-on-dark-color);
+    border-bottom: 3px solid var(--accent-warm-color);
     border-radius: var(--border-radius);
     font-weight: 600;
     font-size: 0.9rem;
@@ -240,7 +249,7 @@ textarea:focus-visible {
 
 /* Hero Section */
 .hero {
-    background: var(--light-color);
+    background: var(--hero-background-color);
     color: var(--text-color);
     padding: clamp(2.5rem, 5vw, 4rem) 0;
 }
@@ -421,6 +430,23 @@ textarea:focus-visible {
 
 .audience-card p {
     color: var(--text-light);
+}
+
+.audience-card h3 {
+    padding-left: 0.65rem;
+    border-left: 3px solid var(--audience-accent-color, var(--accent-color));
+}
+
+.audience-card:nth-child(2) h3 {
+    --audience-accent-color: var(--accent-warm-color);
+}
+
+.audience-card:nth-child(3) h3 {
+    --audience-accent-color: var(--accent-gold-color);
+}
+
+.audience-card:nth-child(4) h3 {
+    --audience-accent-color: var(--accent-cool-color);
 }
 
 /* Phases Section */
@@ -969,7 +995,7 @@ textarea:focus-visible {
 }
 
 .phase-game {
-    background: var(--phase-1);
+    background: var(--phase-game);
     color: var(--text-color);
 }
 
@@ -1034,10 +1060,29 @@ a.document-link:focus-visible,
 
 .document-type {
     flex-shrink: 0;
-    color: var(--primary-color);
+    padding: 0.2rem 0.45rem;
+    border-radius: var(--border-radius);
+    color: var(--text-color);
+    background: var(--tag-document-background-color);
     font-size: 0.75rem;
     font-weight: 700;
     text-align: right;
+}
+
+.document-link[data-type="spreadsheet"] .document-type {
+    background: var(--tag-spreadsheet-background-color);
+}
+
+.document-link[data-type="presentation"] .document-type {
+    background: var(--tag-presentation-background-color);
+}
+
+.document-link[data-type="guide"] .document-type {
+    background: var(--tag-guide-background-color);
+}
+
+.document-link[data-type="retrospective"] .document-type {
+    background: var(--tag-retrospective-background-color);
 }
 
 .coming-soon-item {
@@ -1045,7 +1090,7 @@ a.document-link:focus-visible,
 }
 
 .coming-soon-item .document-type {
-    color: var(--coming-soon-color);
+    background: var(--tag-spreadsheet-background-color);
 }
 
 .catalog-empty {
