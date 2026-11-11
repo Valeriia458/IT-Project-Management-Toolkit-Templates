@@ -11,9 +11,10 @@
     --accent-warm-color: #b65f43;
     --accent-gold-color: #987126;
     --accent-cool-color: #54727f;
-    --accent-plum-color: #68458a;
-    --accent-teal-color: #287c7a;
-    --accent-berry-color: #b94f68;
+    --accent-plum-color: #70419b;
+    --accent-teal-color: #16847f;
+    --accent-berry-color: #c34362;
+    --accent-coral-color: #d26043;
 
     --dark-color: #1f3028;
     --text-color: #26352d;
@@ -635,6 +636,10 @@ textarea:focus-visible {
 
 .feature:nth-child(3) {
     border-top-color: var(--accent-berry-color);
+}
+
+.feature:nth-child(4) {
+    border-top-color: var(--accent-coral-color);
 }
 
 .feature p {
