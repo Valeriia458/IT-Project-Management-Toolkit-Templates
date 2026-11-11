@@ -966,6 +966,10 @@ a:hover {
     transition: background-color var(--transition), box-shadow var(--transition);
 }
 
+.document-link--wide {
+    grid-column: 1 / -1;
+}
+
 a.document-link:hover {
     background: #f7faf8;
     color: var(--text-color);

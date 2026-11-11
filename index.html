@@ -358,7 +358,14 @@
         });
 
         catalogSections.forEach((section) => {
-            section.hidden = !section.querySelector(".document-link:not([hidden])");
+            const sectionItems = [...section.querySelectorAll(".document-link")];
+            const visibleSectionItems = sectionItems.filter((item) => !item.hidden);
+            section.hidden = visibleSectionItems.length === 0;
+            sectionItems.forEach((item) => item.classList.remove("document-link--wide"));
+
+            if (visibleSectionItems.length % 2 === 1) {
+                visibleSectionItems[visibleSectionItems.length - 1].classList.add("document-link--wide");
+            }
         });
 
         const visibleItems = catalogItems.filter((item) => !item.hidden);
