@@ -8,13 +8,14 @@
     --primary-hover-color: #1f5039;
     --secondary-color: var(--primary-color);
     --accent-color: #527a65;
-    --accent-warm-color: #b65f43;
-    --accent-gold-color: #987126;
-    --accent-cool-color: #54727f;
-    --accent-plum-color: #70419b;
-    --accent-teal-color: #16847f;
-    --accent-berry-color: #c34362;
-    --accent-coral-color: #d26043;
+    --accent-warm-color: #a4472d;
+    --accent-gold-color: #805b00;
+    --accent-cool-color: #3e6475;
+    --accent-plum-color: #5d2f87;
+    --accent-teal-color: #006b68;
+    --accent-berry-color: #a92c4c;
+    --accent-coral-color: #b53c25;
+    --accent-blue-color: #315f9b;
 
     --dark-color: #1f3028;
     --text-color: #26352d;
@@ -640,6 +641,10 @@ textarea:focus-visible {
 
 .feature:nth-child(4) {
     border-top-color: var(--accent-coral-color);
+}
+
+.feature:nth-child(6) {
+    border-top-color: var(--accent-blue-color);
 }
 
 .feature p {
