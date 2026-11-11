@@ -189,28 +189,168 @@ a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    padding: calc(var(--spacing-xl) * 2) var(--spacing-md);
-    text-align: center;
+    background: #f3f6f4;
+    color: var(--text-color);
+    padding: clamp(3rem, 7vw, 6rem) 0;
+}
+
+.hero-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1.35fr) minmax(260px, 0.65fr);
+    gap: clamp(2rem, 6vw, 5rem);
+    align-items: center;
+}
+
+.hero-copy {
+    max-width: 720px;
+}
+
+.hero-eyebrow,
+.case-study-label {
+    color: #267744;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: var(--spacing-sm);
 }
 
 .hero h1 {
-    font-size: 3rem;
+    max-width: 680px;
+    font-size: clamp(2.5rem, 5vw, 4rem);
     margin-bottom: var(--spacing-md);
 }
 
 .hero .tagline {
-    font-size: 1.3rem;
-    margin-bottom: var(--spacing-xl);
-    color: rgba(255, 255, 255, 0.9);
+    max-width: 600px;
+    font-size: 1.2rem;
+    margin-bottom: var(--spacing-lg);
+    color: var(--text-light);
 }
 
 .hero-buttons {
     display: flex;
     gap: var(--spacing-md);
-    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
+    margin-bottom: var(--spacing-xl);
+}
+
+.hero .btn-primary {
+    background: #267744;
+}
+
+.hero .btn-primary:hover {
+    background: #1e6036;
+}
+
+.hero .btn-secondary {
+    color: var(--text-color);
+    border-color: #b7c3ba;
+}
+
+.hero .btn-secondary:hover {
+    background: white;
+    border-color: var(--text-color);
+    color: var(--text-color);
+}
+
+.hero-facts {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--spacing-md);
+    padding-top: var(--spacing-lg);
+    border-top: 1px solid #d5ded7;
+}
+
+.hero-facts div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+}
+
+.hero-facts span {
+    color: var(--text-light);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+}
+
+.hero-facts strong {
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+
+.hero-case-study {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: clamp(1.5rem, 3vw, 2.25rem);
+    background: white;
+    color: var(--text-color);
+    border: 1px solid #d5ded7;
+    border-radius: 12px;
+    box-shadow: 0 16px 40px rgba(34, 65, 43, 0.08);
+    transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.hero-case-study:hover {
+    color: var(--text-color);
+    transform: translateY(-4px);
+    box-shadow: 0 20px 48px rgba(34, 65, 43, 0.14);
+}
+
+.hero-case-study:focus-visible {
+    outline: 3px solid var(--secondary-color);
+    outline-offset: 3px;
+}
+
+.hero-case-study .case-study-label {
+    margin-bottom: var(--spacing-lg);
+}
+
+.hero-case-icon {
+    display: grid;
+    width: 3.5rem;
+    height: 3.5rem;
+    place-items: center;
+    margin-bottom: var(--spacing-md);
+    background: #e7f2e9;
+    border-radius: 50%;
+    font-size: 1.8rem;
+}
+
+.hero-case-title {
+    margin-bottom: 0.5rem;
+    font-size: 1.65rem;
+    font-weight: 700;
+}
+
+.hero-case-description {
+    color: var(--text-light);
+    margin-bottom: var(--spacing-lg);
+}
+
+.hero-case-phases {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    align-items: center;
+    padding: 0.7rem 0.8rem;
+    background: #f3f6f4;
+    border-radius: var(--border-radius);
+    font-size: 0.78rem;
+    font-weight: 600;
+}
+
+.hero-case-phases span {
+    color: #267744;
+}
+
+.hero-case-link {
+    margin-top: var(--spacing-lg);
+    color: #267744;
+    font-weight: 700;
 }
 
 /* Audience Section */
@@ -605,8 +745,13 @@ a:hover {
         gap: var(--spacing-md);
     }
     
+    .hero-layout {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-xl);
+    }
+
     .hero h1 {
-        font-size: 2rem;
+        font-size: clamp(2.25rem, 8vw, 3rem);
     }
     
     .hero .tagline {
@@ -615,6 +760,15 @@ a:hover {
     
     .hero-buttons {
         flex-direction: column;
+        align-items: stretch;
+    }
+
+    .hero-buttons .btn {
+        width: 100%;
+    }
+
+    .hero-case-study {
+        max-width: 560px;
     }
     
     .phase-header {
@@ -636,6 +790,11 @@ a:hover {
     h2 { font-size: 1.25rem; }
     
     .nav-links {
+        gap: var(--spacing-sm);
+    }
+
+    .hero-facts {
+        grid-template-columns: 1fr;
         gap: var(--spacing-sm);
     }
     
