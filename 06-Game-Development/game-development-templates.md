@@ -2,7 +2,7 @@
 A collection of practical templates and resources for Game Development teams, covering project planning, game design, production management, and team collaboration.
 ## 📂 What's Inside?  
 
-**Game Design Document (GDD)**👾  
+**Game Design Document (GDD)** 👾  
 **Technical Design Document (TDD)**    
 **Game Production Plan**  
 **Level Design Document (LDD)**  
