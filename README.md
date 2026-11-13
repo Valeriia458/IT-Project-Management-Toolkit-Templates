@@ -34,7 +34,7 @@ Open a template from a phase document list. For Google Docs, Sheets, or Slides, 
 [Airtable](https://www.airtable.com/templates/project-management/expnPwND0WA2x7nhJ)   
 [gamedesigning.org](https://gamedesigning.org/learn/game-design-document/?utm_source)
 
-## Project Management Books
+## 📚📚 Project Management Books
 
 [Herding Cats: A Primer for Programmers Who Lead Programmers
 by J. Hank Rainwater, 2002](https://drive.google.com/file/d/1QMz9CT6QLwCn2kRkE2CNePH5bg5SOjZK/view?usp=sharing)
