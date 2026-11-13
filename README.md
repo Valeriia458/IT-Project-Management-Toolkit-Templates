@@ -48,7 +48,7 @@ by J. Hank Rainwater, 2002](https://drive.google.com/file/d/1QMz9CT6QLwCn2kRkE2C
 * **Standardized:** Based on the industry-leading Google PM Professional Certificate methodology.
 * **IT Focused:** Optimized for IT and software development workflows.
 
-## License
+## 📄 License
 MIT - Free to use!
 
 ## 🤝 Contributing
