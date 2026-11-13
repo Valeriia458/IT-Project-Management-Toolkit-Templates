@@ -13,7 +13,7 @@ Professional project management templates and artifacts designed for IT and Game
 4. [**04-Closing**](./04-Closing) - Retrospectives and Project Closeout Reports.🏆
 5. [**05-Portfolio Artifacts**](./05-Portfolio) - **End-to-End Implementation:** See the full lifecycle of the "Plant Pals" project implementation.💎
 6. [**06-Game Development**](https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/tree/main/06-Game-Development) - Main documentation for Game Development🎮
-## Who Is This For?
+## 💎 Who Is This For?
 - Aspiring and Junior Project Managers
 - IT and GameDev professionals transitioning into Project Management
 - GameDev Project Managers, and other GameDev team members
