@@ -3,7 +3,7 @@
 # IT Project Management Toolkit
 A collection of professional templates for aspiring and junior Project Managers, inspired by the Google PM Certificate and real-world IT workflows.
 
-## What's Inside?
+##  📂 What's Inside?
 ### Reference Project: End-to-End Implementation
 ## Case Study: Real-World Application
 *See these templates in action! This section contains a complete set of documentation for a simulated IT project ("Plant Pals") completed during my Google PM Certification.*
