@@ -1,6 +1,6 @@
-# Project Management Templates for Game Development Teams
+# 🎮🚀 Project Management Templates for Game Development Teams
 A collection of practical templates and resources for Game Development teams, covering project planning, game design, production management, and team collaboration.
-## What's Inside?
+## 📂 What's Inside?  
 
 - [Game Design Document (GDD)](https://docs.google.com/document/d/1Y7IxC_Z7JagWl7rGaKdDuAGQAsqtjAL86ZikkWHKXfw/edit?usp=sharing)
 **Technical Design Document (TDD)**
@@ -8,6 +8,11 @@ A collection of practical templates and resources for Game Development teams, co
 **Level Design Document (LDD)**
 **Game Test Plan**
 
-
-## How to Support
+## ⭐ How to Support
 If you find these templates helpful for your PM work, please **give this repository a star!** It helps other PMs find these resources.
+
+
+
+
+
+
