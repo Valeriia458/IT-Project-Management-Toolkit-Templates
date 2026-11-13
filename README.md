@@ -1,7 +1,7 @@
    
 ![IT Project Management Toolkit](./banner.jpg)
 
-# 🚀 IT Project Management Toolkit & Templates
+# 🚀👩🏻‍💻 IT Project Management Toolkit & Templates
 
 Professional project management templates and artifacts designed for IT and GameDev professionals, Project Managers, and aspiring specialists building their portfolios.
 
