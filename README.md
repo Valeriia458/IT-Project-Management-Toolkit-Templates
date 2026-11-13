@@ -51,7 +51,7 @@ by J. Hank Rainwater, 2002](https://drive.google.com/file/d/1QMz9CT6QLwCn2kRkE2C
 ## License
 MIT - Free to use!
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Whether you'd like to suggest a new template, improve an existing one, report an issue, or share an idea, your input is appreciated.
 Please read our [Contributing Guidelines](CONTRIBUTING.md) to learn how to get involved.
