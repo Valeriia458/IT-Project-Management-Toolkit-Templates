@@ -22,7 +22,7 @@ Professional project management templates and artifacts designed for IT and Game
 ## 🚀 Quick Start
 Open a template from a phase document list. For Google Docs, Sheets, or Slides, choose **File → Make a copy** to save an editable copy to your Google Drive. Templates from other websites open on their provider's sites and can be copied using the options there. The Markdown files in this repository are indexes with links to the templates.
 
-## Resources
+## 💎 Resources
 [WordLayouts](https://www.wordlayouts.com/) <br>
 [Coursera](https://www.coursera.org/) <br>
 [Miro](https://miro.com/index/) <br>
