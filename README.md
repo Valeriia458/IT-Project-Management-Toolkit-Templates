@@ -57,7 +57,7 @@ Contributions are welcome! Whether you'd like to suggest a new template, improve
 Please read our [Contributing Guidelines](CONTRIBUTING.md) to learn how to get involved.
 Let's make project management easier and more accessible together!
 
-## How to support
+## ⭐ How to support
 If you find these templates helpful for your PM journey, please **give this repository a star!** It helps other aspiring PMs find these resources and supports my professional growth.
 
 ## About the Author
