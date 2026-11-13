@@ -5,7 +5,6 @@ A collection of professional templates for aspiring and junior Project Managers,
 
 ## What's Inside?
 ### Reference Project: End-to-End Implementation
-## Case Study: Real-World Application
 *See these templates in action! This section contains a complete set of documentation for a simulated IT project ("Plant Pals") completed during my Google PM Certification.*
 
 ### [View Full Project Portfolio](https://drive.google.com/drive/folders/1Mh8OUbJYvBWpZlQBEVWUXD0Ssb3LKFp2?usp=sharing)
