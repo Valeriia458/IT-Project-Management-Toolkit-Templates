@@ -43,7 +43,7 @@ by J. Hank Rainwater, 2002](https://drive.google.com/file/d/1QMz9CT6QLwCn2kRkE2C
   
 
 
-## Why this Toolkit?
+## ✨ Why this Toolkit?
 * **End-to-End Implementation:** Includes a full implementation as a reference point.
 * **Standardized:** Based on the industry-leading Google PM Professional Certificate methodology.
 * **IT Focused:** Optimized for IT and software development workflows.
