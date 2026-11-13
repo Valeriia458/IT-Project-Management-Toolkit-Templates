@@ -60,7 +60,7 @@ Let's make project management easier and more accessible together!
 ## ⭐ How to support
 If you find these templates helpful for your PM journey, please **give this repository a star!** It helps other aspiring PMs find these resources and supports my professional growth.
 
-## About the Author
+## 👩🏻‍💻 About the Author
 I am an aspiring Project Manager focused on the IT and GameDev industries. 
 * [**My LinkedIn**](https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/)
 
