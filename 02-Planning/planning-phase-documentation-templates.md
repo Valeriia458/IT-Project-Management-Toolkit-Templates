@@ -17,5 +17,5 @@ A collection of professional templates for aspiring and junior Project Managers,
 * [**Risk management plan**](https://docs.google.com/document/d/1MsQGYH1z_b30UpKBNA_psbkV2RnsJiDD0Ij1QvD5P0E/edit?usp=sharing) ✨
 * [**Planning: Guiding questions and tips**](https://drive.google.com/file/d/1AJPMy3LHz9KABoG60eaYRdv2krsF7P7-/view?usp=sharing) 🌳
 
-## How to Support
-If you find these templates helpful for your PM journey, please **give this repository a star!** It helps other aspiring PMs find these resources.
+## ⭐ How to Support
+If you find these templates helpful for your PM work, please **give this repository a star!** It helps other PMs find these resources.
