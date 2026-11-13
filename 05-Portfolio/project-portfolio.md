@@ -1,6 +1,6 @@
 
 
-# IT Project Management Toolkit
+# 🚀 IT Project Management Toolkit
 A collection of professional templates for aspiring and junior Project Managers, inspired by the Google PM Certificate and real-world IT workflows.
 
 ##  📂 What's Inside?
