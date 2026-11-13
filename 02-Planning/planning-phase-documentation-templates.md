@@ -2,7 +2,7 @@
 # IT Project Management Toolkit
 A collection of professional templates for aspiring and junior Project Managers, inspired by the Google PM Certificate and real-world IT workflows.
 
-## What's Inside?
+##  📂 What's Inside?
 ### 2. Planing Phase
 * [**Statement of Work (SoW)**](https://docs.google.com/document/d/1pKxClCpxwrhNeKkpEDmzVgqYbjn5UxQPpt9Z8Ay7drc/edit?usp=sharing) 💌
 * [**WBS Brainstorm Diagram**](https://docs.google.com/spreadsheets/d/1MK8v9-sNL0KIqUhe6YviBqLdjN61UryrGGcv1E7F65I/edit?usp=sharing) ☕️ 
