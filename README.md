@@ -1,7 +1,7 @@
    
 ![IT Project Management Toolkit](./banner.jpg)
 
-# 🚀👩🏻‍💻 IT Project Management Toolkit & Templates
+# 🚀 IT Project Management Toolkit & Templates
 
 Professional project management templates and artifacts designed for IT and GameDev professionals, Project Managers, and aspiring specialists building their portfolios.
 
@@ -19,7 +19,7 @@ Professional project management templates and artifacts designed for IT and Game
 - GameDev Project Managers, and other GameDev team members
 - Professionals looking for practical project management resources
 - Anyone building a Project Management portfolio
-## 🚀 Quick Start
+## 🏃 Quick Start
 Open a template from a phase document list. For Google Docs, Sheets, or Slides, choose **File → Make a copy** to save an editable copy to your Google Drive. Templates from other websites open on their provider's sites and can be copied using the options there. The Markdown files in this repository are indexes with links to the templates.
 
 ## 🌳🌿 Resources
