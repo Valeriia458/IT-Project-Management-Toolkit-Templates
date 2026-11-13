@@ -6,7 +6,7 @@
 Professional project management templates and artifacts designed for IT and GameDev professionals, Project Managers, and aspiring specialists building their portfolios.
 
 ---
-## What's Included
+## 📂 What's Included
 1. [**01-Initiation**](./01-Initiation) - Proposal, Project Charters and Stakeholder Registers.🌟🌿
 2. [**02-Planning**](./02-Planning) - RACI Charts, Project Plans, and Communication Strategies.🔥
 3. [**03-Execution**](./03-Execution) - Status Reports, Risk Logs, and ROAM Analysis.👾
