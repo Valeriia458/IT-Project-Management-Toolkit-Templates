@@ -5,235 +5,259 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Professional IT Project Management templates and artifacts. Includes project charters, RACI charts, risk logs, and a complete case study.">
     <meta name="keywords" content="project management, templates, IT, Google PM Certificate, portfolio">
-    <title>IT Project Management Toolkit & Templates 📋</title>
+    <title>IT Project Management Toolkit &amp; Templates</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+<a class="skip-link" href="#phases">Skip to main content</a>
+
 <!-- Navigation -->
-<nav class="navbar">
+<nav class="navbar" aria-label="Main navigation">
     <div class="container">
         <div class="logo">IT PM Toolkit</div>
         <ul class="nav-links">
             <li><a href="#phases">Templates</a></li>
             <li><a href="#case-study">Case Study</a></li>
             <li><a href="#about">About</a></li>
-            <li><a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats" target="_blank" class="btn-github">GitHub</a></li>
+            <li><a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates" target="_blank" rel="noopener noreferrer" class="btn-github">GitHub</a></li>
         </ul>
     </div>
 </nav>
 
 <!-- Hero Section -->
 <header class="hero">
-    <div class="container">
-        <h1>Professional IT Project Management Toolkit</h1>
-        <p class="tagline">Templates, Artifacts & Complete Case Study for Aspiring Project Managers</p>
-        <div class="hero-buttons">
-            <a href="#phases" class="btn btn-primary">Explore Templates</a>
-            <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats" target="_blank" class="btn btn-secondary">View on GitHub</a>
+    <div class="container hero-layout">
+        <div class="hero-copy">
+            <p class="hero-eyebrow">A practical toolkit for IT project work</p>
+            <h1>Plan the work. Keep the project moving.</h1>
+            <p class="tagline">Ready-to-use project documents and guides for the full lifecycle, from getting started to closing out.</p>
+            <div class="hero-buttons">
+                <a href="#phases" class="btn btn-primary">Browse the template catalog</a>
+                <a href="#case-study" class="btn btn-secondary">See Plant Pals in action</a>
+            </div>
+            <div class="hero-facts" aria-label="Toolkit overview">
+                <div>
+                    <span>IN THE TOOLKIT</span>
+                    <strong>Templates, checklists &amp; guides</strong>
+                </div>
+                <div>
+                    <span>MADE FOR</span>
+                    <strong>Aspiring PMs and IT / GameDev teams</strong>
+                </div>
+                <div>
+                    <span>START HERE</span>
+                    <strong>Browse by phase, type or keyword</strong>
+                </div>
+            </div>
         </div>
+        <a class="hero-case-study" href="#case-study" aria-label="Explore the Plant Pals case study">
+            <span class="case-study-label">PROJECT EXAMPLE</span>
+            <span class="hero-case-title">Plant Pals</span>
+            <span class="hero-case-description">See how project documents connect across a complete project lifecycle.</span>
+            <span class="hero-case-phases">Initiate <span aria-hidden="true">→</span> Plan <span aria-hidden="true">→</span> Deliver <span aria-hidden="true">→</span> Close</span>
+            <span class="hero-case-link">Explore the case study <span aria-hidden="true">↗</span></span>
+        </a>
     </div>
 </header>
 
-<!-- Who Is This For -->
-<section class="audience">
-    <div class="container">
-        <h2>Who Is This For?</h2>
-        <div class="audience-grid">
-            <div class="audience-card">
-                <span class="emoji">🎓</span>
-                <h3>Google PM Certificate Students</h3>
-                <p>Ready-to-use templates aligned with Google PM methodology</p>
-            </div>
-            <div class="audience-card">
-                <span class="emoji">💼</span>
-                <h3>Junior Project Managers</h3>
-                <p>Industry-standard artifacts to accelerate your PM career</p>
-            </div>
-            <div class="audience-card">
-                <span class="emoji">🚀</span>
-                <h3>IT Professionals</h3>
-                <p>Transitioning to PM roles in tech and software development</p>
-            </div>
-            <div class="audience-card">
-                <span class="emoji">📁</span>
-                <h3>Portfolio Builders</h3>
-                <p>Real-world examples to showcase in interviews and LinkedIn</p>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- Template Catalog -->
+<main>
+                <section id="phases" class="phases catalog">
+                    <div class="container">
+                        <div class="catalog-heading">
+                            <div>
+                                <p class="eyebrow">IT PROJECT MANAGEMENT TOOLKIT</p>
+                                <h2>Find a project template</h2>
+                                <p class="section-subtitle">Browse real documents by project phase, or search for a specific tool.</p>
+                            </div>
+                            <p class="catalog-count" id="catalog-count" aria-live="polite">52 resources · 5 coming soon</p>
+                        </div>
 
-<!-- Templates by Phase -->
-<section id="phases" class="phases">
-    <div class="container">
-        <h2>Project Management Lifecycle Templates</h2>
-        <p class="section-subtitle">Complete templates for all 4 phases of project management</p>
-        
-        <!-- Phase 1: Initiation -->
-        <div class="phase-card">
-            <div class="phase-header phase-1">
-                <h3>🌟 Phase 1: Initiation</h3>
-                <span class="phase-number">01</span>
-            </div>
-            <div class="phase-content">
-                <p>Define project goals, scope, and stakeholders. Lay the foundation for project success.</p>
-                <div class="templates-list">
-                    <div class="template-item">
-                        <span class="template-icon">📄</span>
-                        <div>
-                            <strong>Project Proposal</strong>
-                            <p>Business case and project overview</p>
+                        <div class="catalog-toolbar" role="group" aria-label="Filter templates">
+                            <label class="search-field">
+                                <span>Search templates</span>
+                                <input id="template-search" type="search" placeholder="Try “risk”, “budget” or “retro”">
+                            </label>
+                            <label>
+                                <span>Project phase</span>
+                                <select id="phase-filter">
+                                    <option value="all">All phases</option>
+                                    <option value="initiation">01 · Initiation</option>
+                                    <option value="planning">02 · Planning</option>
+                                    <option value="execution">03 · Execution</option>
+                                    <option value="closing">04 · Closing</option>
+                                    <option value="game-development">06 · Game Development</option>
+                                </select>
+                            </label>
+                            <label>
+                                <span>Document type</span>
+                                <select id="type-filter">
+                                    <option value="all">All types</option>
+                                    <option value="document">Google Docs</option>
+                                    <option value="spreadsheet">Google Sheets</option>
+                                    <option value="presentation">Google Slides</option>
+                                    <option value="guide">Guides</option>
+                                    <option value="retrospective">Retrospectives</option>
+                                    <option value="coming-soon">Coming soon</option>
+                                </select>
+                            </label>
                         </div>
-                    </div>
-                    <div class="template-item">
-                        <span class="template-icon">📋</span>
-                        <div>
-                            <strong>Project Charter</strong>
-                            <p>Official project authorization document</p>
+
+                        <p class="access-note">Google files open in a new tab. To keep your own editable copy, choose <strong>File → Make a copy</strong> in Google Docs, Sheets or Slides. Other resources open on their template provider's site.</p>
+
+                        <div class="catalog-sections">
+                            <section class="catalog-phase" data-phase-section="initiation" aria-labelledby="initiation-title">
+                                <div class="catalog-phase-heading phase-1">
+                                    <div><span class="phase-number">01</span><h3 id="initiation-title">Initiation</h3><p>Set direction, define scope and align stakeholders.</p></div>
+                                    <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/blob/main/01-Initiation/initiation-phase-document-templates.md" target="_blank" rel="noopener noreferrer">Source list ↗</a>
+                                </div>
+                                <div class="document-list">
+                                    <a class="document-link" data-phase="initiation" data-type="guide" href="https://drive.google.com/file/d/1gQp1AGNCkg4vqmfd_D9caz8TMeCA_IEo/view?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Initiation: Guiding questions and tips</strong><small>Prompts to shape the project before committing to delivery.</small></span><span class="document-type">Guide ↗</span></a>
+                                    <a class="document-link" data-phase="initiation" data-type="document" href="https://docs.google.com/document/d/138Ky_OzBpHhUcuVM4veJApwWWeWUjAraO2jkDcQY8Yw/edit?tab=t.0#heading=h.a60kay9aoyg" target="_blank" rel="noopener noreferrer"><span><strong>Business Case</strong><small>Explain the project need, expected value and rationale.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="initiation" data-type="document" href="https://docs.google.com/document/d/1DsauKCo4XHTqJKnJKCVwa-E__KKTDbk1C5oE8MZaD8M/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Proposal</strong><small>Present the project idea, objectives and proposed approach.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="initiation" data-type="document" href="https://docs.google.com/document/d/1IWjr_-cm5zuUa8OVJenTT-_9EclUq77wZ7vYQha8Omw/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>SMART Goals</strong><small>Define goals that are specific, measurable and time-bound.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="initiation" data-type="document" href="https://docs.google.com/document/d/1JOWj5ASlHD87e13Wb_BlYGEuuFguIi_16Q_ph10I1n8/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>SMART Goals Planner</strong><small>Turn project intentions into trackable goal statements.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="initiation" data-type="document" href="https://docs.google.com/document/d/1u2ALNL9U8CFE7-27pxAIwBSPKfhQLUCvz2D444kO5gc/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Move It OKRs</strong><small>Connect objectives to measurable key results.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="initiation" data-type="document" href="https://docs.google.com/document/d/1TQc5pe2fOv7aBtuU70lSYLt7F8-tjcYQqVahA2PWdJQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Charter</strong><small>Record project purpose, scope, authority and success criteria.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="initiation" data-type="document" href="https://docs.google.com/document/d/1A-M963s2zvQBtEBDgNaXU7xkL7RJJTIGK5KFwQiNhCM/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Requirements</strong><small>Capture needs and expectations for the project outcome.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="initiation" data-type="presentation" href="https://docs.google.com/presentation/d/1tLbuTcV0P43zxjE0aeAmoQGTmR5L7hHjafgIx1EYuPg/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Stakeholder Register</strong><small>Identify stakeholders and organize key information about them.</small></span><span class="document-type">Google Slides ↗</span></a>
+                                    <a class="document-link" data-phase="initiation" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/1_V8Prq79L-1eQqWvpKw_UK9-kDcYu0iCVqWe2fA1w6Y/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>RACI Chart</strong><small>Clarify who is responsible, accountable, consulted and informed.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link document-link--wide" data-phase="initiation" data-type="document" href="https://docs.google.com/document/d/14e72YYlRIFxL7i0XSUvt3wHZdzR2FoKzxiTz5-l4ulE/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Kickoff Meeting Agenda</strong><small>Structure the first meeting around shared goals and next steps.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                </div>
+                            </section>
+
+                            <section class="catalog-phase" data-phase-section="planning" aria-labelledby="planning-title">
+                                <div class="catalog-phase-heading phase-2">
+                                    <div><span class="phase-number">02</span><h3 id="planning-title">Planning</h3><p>Build the work breakdown, schedule, budget and team plans.</p></div>
+                                    <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/blob/main/02-Planning/planning-phase-documentation-templates.md" target="_blank" rel="noopener noreferrer">Source list ↗</a>
+                                </div>
+                                <div class="document-list">
+                                    <a class="document-link" data-phase="planning" data-type="document" href="https://docs.google.com/document/d/1pKxClCpxwrhNeKkpEDmzVgqYbjn5UxQPpt9Z8Ay7drc/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Statement of Work (SoW)</strong><small>Document the work, deliverables and terms for the project.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/1MK8v9-sNL0KIqUhe6YviBqLdjN61UryrGGcv1E7F65I/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>WBS Brainstorm Diagram</strong><small>Break the project scope into manageable work packages.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/1sLkXu7PtyvX43GP5d3LMl7yPOoYQPH4FrHuuGgAG_mI/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>WBS: Tasks and Milestones</strong><small>Translate work packages into project tasks and milestones.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/1dMeKiY1qynAT_bfIF5G5xh9K2lIBJfDkCPCkXMtz44I/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Plan</strong><small>Organize planned work, owners and delivery dates.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/1JRxcleCD29aBJ8AajLtSZeuobr4d_VcVMZz1FXRqYYk/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Gantt Chart</strong><small>Visualize tasks, durations and dependencies on a timeline.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="document" href="https://docs.google.com/document/d/1oPFO-jSxKz63IhramYbqZURJtGP9KUC3d3p5q5CkM58/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Resource Management Plan</strong><small>Plan the people, skills and resources needed for delivery.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/1s4yaY40lT1Q4QTUKRtd1TDC3PtwrKLpDa026dgva3ww/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Budget</strong><small>Estimate and track project costs.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="presentation" href="https://docs.google.com/presentation/d/1qyBv2pLs-z-qsqt1AONzjZNCCuc-ePlaUkjk1mNPRKs/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Budget Beast Burndown Chart</strong><small>Track budget consumption against the planned timeline.</small></span><span class="document-type">Google Slides ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/184RvkkeF_4SZDzM8HLmha_Jubh7Jmc1CFfoHKVvl6r0/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Communication Plan</strong><small>Set expectations for project updates and stakeholder communication.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="document" href="https://docs.google.com/document/d/1V4mGbDlikKi8PY7rD1IvOW-Kb9XaJchBBbSxt6vr7O0/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Quality Management Plan</strong><small>Define quality standards and how deliverables will be checked.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="document" href="https://docs.google.com/document/d/1MsQGYH1z_b30UpKBNA_psbkV2RnsJiDD0Ij1QvD5P0E/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Risk Management Plan</strong><small>Identify, assess and plan responses to project risks.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="planning" data-type="guide" href="https://drive.google.com/file/d/1AJPMy3LHz9KABoG60eaYRdv2krsF7P7-/view?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Planning: Guiding questions and tips</strong><small>Prompts to help develop a practical project plan.</small></span><span class="document-type">Guide ↗</span></a>
+                                </div>
+                            </section>
+
+                            <section class="catalog-phase" data-phase-section="execution" aria-labelledby="execution-title">
+                                <div class="catalog-phase-heading phase-3">
+                                    <div><span class="phase-number">03</span><h3 id="execution-title">Execution</h3><p>Coordinate delivery, monitor progress and manage change.</p></div>
+                                    <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/tree/main/03-Execution" target="_blank" rel="noopener noreferrer">Source list ↗</a>
+                                </div>
+                                <div class="document-list">
+                                    <a class="document-link" data-phase="execution" data-type="document" href="https://docs.google.com/document/d/1CfSzBMg0Zz3X-jWWPnStJzJoer9qo6GmGguCpOJniPA/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Roadmap</strong><small>Communicate the project's high-level direction and milestones.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="document" href="https://docs.google.com/document/d/18cvYb2mPXW16Gh_ZDC56b7pYifdAZuJQQFVQnPtHFu0/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Daily Standup Meeting Notes</strong><small>Capture team updates, blockers and immediate priorities.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="document" href="https://docs.google.com/document/d/1mC7gmg7K4Lo8uBtzEaBoFB9RW16hEco-uLwj6vzQfq4/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Sprint Burndown and Velocity Tracker</strong><small>Follow sprint progress and team delivery pace.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="document" href="https://docs.google.com/document/d/1Ayd2s5CV0gjgiwenzalgoeF9r1IFF2AYHpbBRw5Oyes/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Bug Report</strong><small>Record a defect with the information needed to investigate it.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="document" href="https://docs.google.com/document/d/1vzFF5OK0OdoMU_AYBeTr6xgJs4kL1QFfQEcyvdCJabY/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Bug and Issue Tracking Log</strong><small>Track issues, ownership and resolution progress.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/1slBHpoPL7OooB2GYoQUuOdpCfGcFvqVLkKdu8Nu1sdY/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Status Report</strong><small>Summarize current progress, issues and upcoming work.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="presentation" href="https://docs.google.com/presentation/d/1s69CmBAsfek86pCihYbxBJmCHilKKxTDBP0UM6yGP10/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Presentation</strong><small>Present project information to stakeholders.</small></span><span class="document-type">Google Slides ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/1heNTVKCymKApa-IWfex_489szfqGhWvY8ojP1v4MaDA/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>ROAM Analysis</strong><small>Sort risks into resolved, owned, accepted or mitigated.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="document" href="https://docs.google.com/document/d/1dweMMXbuQJPz_c4rCNf3jERBWsq3v1N50WG3Y5NpVSM/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Escalation Email</strong><small>Structure a clear escalation when an issue needs attention.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="document" href="https://docs.google.com/document/d/1yBprqf9y6wIDKflNSm-M-wglAKOqrTD-EwJ4LpDyYk0/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Retrospective</strong><small>Reflect on the work and identify improvements for the team.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="document" href="https://docs.google.com/document/d/1z8g9ynpZOycKfRakULSBGYn4jtH0MWZKtANQzQLEeY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Change Request</strong><small>Describe a proposed change and its impact for review.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="execution" data-type="guide" href="https://drive.google.com/file/d/1qLkkgr-lBNAyNMqLMe-_mq5Nmzh7faE5/view?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Execution: Guiding questions and tips</strong><small>Prompts for keeping delivery organized and visible.</small></span><span class="document-type">Guide ↗</span></a>
+                                </div>
+                            </section>
+
+                            <section class="catalog-phase" data-phase-section="closing" aria-labelledby="closing-title">
+                                <div class="catalog-phase-heading phase-4">
+                                    <div><span class="phase-number">04</span><h3 id="closing-title">Closing</h3><p>Confirm acceptance, hand over work and capture lessons.</p></div>
+                                    <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/blob/main/04-Closing/closing-phase-document-templates.md" target="_blank" rel="noopener noreferrer">Source list ↗</a>
+                                </div>
+                                <div class="document-list">
+                                    <a class="document-link" data-phase="closing" data-type="document" href="https://docs.google.com/document/d/1g5VQEc--6uCxyXhmdJ01O2hbHAj59ZBRvzES6tl4ORE/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Stakeholder Acceptance Sign-off</strong><small>Record stakeholder approval and formal acceptance.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="document" href="https://docs.google.com/document/d/1MPQ-JojhR8GBTcsMUanyFF_fuaxKY20ufwH_-tX7Kog/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Handover and Support Documentation</strong><small>Prepare the receiving team to support the completed work.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="document" href="https://docs.google.com/document/d/1ySCZsjEggkthMtq87qB-SQyB32CctZ_m-YiSX-uxcfQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Project Asset Inventory</strong><small>List project assets and their handover details.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="document" href="https://docs.google.com/document/d/17OdiW0L7QjAWs4YtRb020UqshNKV4xqa1zy2dChBgJI/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Closeout Report</strong><small>Summarize the project outcome and final status.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="presentation" href="https://docs.google.com/presentation/d/1Lk_AN5R8trKN9EAqW0BuvJLpXrwciCYCHGnQ9iOf2sA/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Impact Report</strong><small>Present the outcomes and impact achieved by the project.</small></span><span class="document-type">Google Slides ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="document" href="https://docs.google.com/document/d/1aRF2LMSYGKe_Q3Dc3BmcmXmu_6lXhF9r7Ryr2QLnCYU/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Retrospective Pre-Meeting Reflection 1</strong><small>Collect individual reflections before the retrospective.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="document" href="https://docs.google.com/document/d/1xHcTaZB1UkPbT2CdLAHFv25HNp6yCafLPkXybROd_-E/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Retrospective Pre-Meeting Reflection 2</strong><small>Gather another perspective ahead of the team review.</small></span><span class="document-type">Google Docs ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="spreadsheet" href="https://docs.google.com/spreadsheets/d/1mbPJnvFK4x55OC1XFLnhAXajbdL6fu54Gg0PmaRPdgQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Retrospective Review</strong><small>Organize team feedback and lessons from the project.</small></span><span class="document-type">Google Sheets ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="retrospective" href="https://miro.com/templates/start-stop-continue-basic/" target="_blank" rel="noopener noreferrer"><span><strong>Start, Stop, Continue Retrospective</strong><small>Review which team practices to start, stop and continue.</small></span><span class="document-type">Miro template ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="retrospective" href="https://nulab.com/cacoo/templates/easy-retro/" target="_blank" rel="noopener noreferrer"><span><strong>Quick Retrospective</strong><small>Run a lightweight team reflection session.</small></span><span class="document-type">Cacoo template ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="retrospective" href="https://nulab.com/cacoo/templates/4ls-retrospective/" target="_blank" rel="noopener noreferrer"><span><strong>4Ls Retrospective</strong><small>Discuss what the team liked, learned, lacked and longed for.</small></span><span class="document-type">Cacoo template ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="retrospective" href="https://www.teamretro.com/retrospective-templates/mad-sad-glad-retrospective/" target="_blank" rel="noopener noreferrer"><span><strong>Mad, Glad, Sad Retrospective</strong><small>Explore team experiences through three emotional lenses.</small></span><span class="document-type">TeamRetro template ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="retrospective" href="https://nulab.com/cacoo/templates/keep-problem-try/" target="_blank" rel="noopener noreferrer"><span><strong>Keep, Problem, Try Retrospective</strong><small>Identify what to keep, address and try next.</small></span><span class="document-type">Cacoo template ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="retrospective" href="https://miro.com/templates/starfish-retrospective/" target="_blank" rel="noopener noreferrer"><span><strong>Starfish Retrospective</strong><small>Sort feedback into five areas for team improvement.</small></span><span class="document-type">Miro template ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="retrospective" href="https://miro.com/templates/midnight-sailboat-retro/" target="_blank" rel="noopener noreferrer"><span><strong>Sailboat Retrospective</strong><small>Reflect on goals, risks, support and obstacles as a team.</small></span><span class="document-type">Miro template ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="retrospective" href="https://miro.com/templates/timeline-retrospective/" target="_blank" rel="noopener noreferrer"><span><strong>Timeline Retrospective</strong><small>Revisit project events in chronological order.</small></span><span class="document-type">Miro template ↗</span></a>
+                                    <a class="document-link" data-phase="closing" data-type="guide" href="https://drive.google.com/file/d/1Hmy89_E-Xs8-0hV5eQgzz6fDT2of8gXK/view?usp=sharing" target="_blank" rel="noopener noreferrer"><span><strong>Closing: Guiding questions and tips</strong><small>Prompts for sign-off, handover and project reflection.</small></span><span class="document-type">Guide ↗</span></a>
+                                </div>
+                            </section>
+
+                            <section class="catalog-phase game-development-phase" data-phase-section="game-development" aria-labelledby="game-development-title">
+                                <div class="catalog-phase-heading phase-game">
+                                    <div><span class="phase-number">06</span><h3 id="game-development-title">Game Development</h3><p>Documentation categories for game production and design teams.</p></div>
+                                    <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/blob/main/06-Game-Development/game-development-templates.md" target="_blank" rel="noopener noreferrer">Section overview ↗</a>
+                                </div>
+                                <div class="document-list">
+                                    <article class="document-link coming-soon-item" data-phase="game-development" data-type="coming-soon" data-search="game development game design document gdd"><span><strong>Game Design Document (GDD)</strong><small>Game concept, mechanics, systems and player experience.</small></span><span class="document-type">Link coming soon</span></article>
+                                    <article class="document-link coming-soon-item" data-phase="game-development" data-type="coming-soon" data-search="game development technical design document tdd"><span><strong>Technical Design Document (TDD)</strong><small>Technical architecture, systems and implementation details.</small></span><span class="document-type">Link coming soon</span></article>
+                                    <article class="document-link coming-soon-item" data-phase="game-development" data-type="coming-soon" data-search="game development game production plan"><span><strong>Game Production Plan</strong><small>Production scope, milestones, schedule and team coordination.</small></span><span class="document-type">Link coming soon</span></article>
+                                    <article class="document-link coming-soon-item" data-phase="game-development" data-type="coming-soon" data-search="game development level design document ldd"><span><strong>Level Design Document (LDD)</strong><small>Level goals, layout, gameplay flow and content requirements.</small></span><span class="document-type">Link coming soon</span></article>
+                                    <article class="document-link coming-soon-item" data-phase="game-development" data-type="coming-soon" data-search="game development game test plan"><span><strong>Game Test Plan</strong><small>Test scope, scenarios and quality checks for the game.</small></span><span class="document-type">Link coming soon</span></article>
+                                </div>
+                            </section>
                         </div>
+                        <p id="catalog-empty" class="catalog-empty" hidden>No templates match these filters. Try another search or choose a different phase.</p>
                     </div>
-                    <div class="template-item">
-                        <span class="template-icon">👥</span>
-                        <div>
-                            <strong>Stakeholder Register</strong>
-                            <p>Identify and analyze key stakeholders</p>
-                        </div>
-                    </div>
+                </section>
+
+    <!-- Who Is This For -->
+    <section class="audience">
+        <div class="container">
+            <h2>Who Is This For?</h2>
+            <div class="audience-grid">
+                <div class="audience-card">
+                    <h3>Google PM Certificate Students</h3>
+                    <p>Ready-to-use templates aligned with Google PM methodology</p>
                 </div>
-                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/01-Initiation" target="_blank" class="btn-template">View Templates →</a>
-            </div>
-        </div>
-
-        <!-- Phase 2: Planning -->
-        <div class="phase-card">
-            <div class="phase-header phase-2">
-                <h3>🔥 Phase 2: Planning</h3>
-                <span class="phase-number">02</span>
-            </div>
-            <div class="phase-content">
-                <p>Develop detailed project plans, schedules, and communication strategies.</p>
-                <div class="templates-list">
-                    <div class="template-item">
-                        <span class="template-icon">📊</span>
-                        <div>
-                            <strong>RACI Chart</strong>
-                            <p>Responsibility Assignment Matrix</p>
-                        </div>
-                    </div>
-                    <div class="template-item">
-                        <span class="template-icon">📅</span>
-                        <div>
-                            <strong>Project Plan & Schedule</strong>
-                            <p>Timeline, milestones, and deliverables</p>
-                        </div>
-                    </div>
-                    <div class="template-item">
-                        <span class="template-icon">💬</span>
-                        <div>
-                            <strong>Communication Strategy</strong>
-                            <p>Stakeholder communication plan</p>
-                        </div>
-                    </div>
+                <div class="audience-card">
+                    <h3>Junior Project Managers</h3>
+                    <p>Industry-standard artifacts to accelerate your PM career</p>
                 </div>
-                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/02-Planning" target="_blank" class="btn-template">View Templates →</a>
-            </div>
-        </div>
-
-        <!-- Phase 3: Execution -->
-        <div class="phase-card">
-            <div class="phase-header phase-3">
-                <h3>👾 Phase 3: Execution</h3>
-                <span class="phase-number">03</span>
-            </div>
-            <div class="phase-content">
-                <p>Monitor progress, manage risks, and keep stakeholders informed.</p>
-                <div class="templates-list">
-                    <div class="template-item">
-                        <span class="template-icon">📈</span>
-                        <div>
-                            <strong>Status Reports</strong>
-                            <p>Weekly/bi-weekly project updates</p>
-                        </div>
-                    </div>
-                    <div class="template-item">
-                        <span class="template-icon">⚠️</span>
-                        <div>
-                            <strong>Risk Log</strong>
-                            <p>Identify and track project risks</p>
-                        </div>
-                    </div>
-                    <div class="template-item">
-                        <span class="template-icon">🎯</span>
-                        <div>
-                            <strong>ROAM Analysis</strong>
-                            <p>Resolve, Own, Accept, Mitigate</p>
-                        </div>
-                    </div>
+                <div class="audience-card">
+                    <h3>IT Professionals</h3>
+                    <p>Transitioning to PM roles in tech and software development</p>
                 </div>
-                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/03-Execution" target="_blank" class="btn-template">View Templates →</a>
-            </div>
-        </div>
-
-        <!-- Phase 4: Closing -->
-        <div class="phase-card">
-            <div class="phase-header phase-4">
-                <h3>🏆 Phase 4: Closing</h3>
-                <span class="phase-number">04</span>
-            </div>
-            <div class="phase-content">
-                <p>Wrap up projects, document lessons learned, and celebrate success.</p>
-                <div class="templates-list">
-                    <div class="template-item">
-                        <span class="template-icon">🔍</span>
-                        <div>
-                            <strong>Retrospective/Lessons Learned</strong>
-                            <p>Team reflection and insights</p>
-                        </div>
-                    </div>
-                    <div class="template-item">
-                        <span class="template-icon">📝</span>
-                        <div>
-                            <strong>Project Closeout Report</strong>
-                            <p>Final project summary and metrics</p>
-                        </div>
-                    </div>
-                    <div class="template-item">
-                        <span class="template-icon">✅</span>
-                        <div>
-                            <strong>Sign-off Documentation</strong>
-                            <p>Project acceptance and approval</p>
-                        </div>
-                    </div>
+                <div class="audience-card">
+                    <h3>Portfolio Builders</h3>
+                    <p>Real-world examples to showcase in interviews and LinkedIn</p>
                 </div>
-                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/04-Closing" target="_blank" class="btn-template">View Templates →</a>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<!-- Case Study Section -->
-<section id="case-study" class="case-study">
-    <div class="container">
-        <h2>Complete Case Study: Plant Pals Project</h2>
-        <p class="section-subtitle">See all templates in action with a real-world example</p>
-        
-        <div class="case-study-grid">
-            <div class="case-study-card">
-                <div class="case-study-icon">💎</div>
+    <!-- Case Study Section -->
+    <section id="case-study" class="case-study">
+        <div class="container">
+            <h2>Complete Case Study: Plant Pals Project</h2>
+            <p class="section-subtitle">See all templates in action with a real-world example</p>
+            <div class="case-study-grid">
+                <div class="case-study-card">
                 <h3>End-to-End Implementation</h3>
                 <p>Follow the complete lifecycle of the "Plant Pals" project from initiation through closing. See how all templates work together in a real scenario.</p>
-                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/tree/main/05-Portfolio" target="_blank" class="btn-template">Explore Case Study →</a>
+                <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/tree/main/05-Portfolio" target="_blank" rel="noopener noreferrer" class="btn-template">Explore Case Study →</a>
             </div>
             
             <div class="case-study-info">
-                <h4>What You'll Learn:</h4>
+                <h3>What You'll Learn:</h3>
                 <ul>
-                    <li>✅ How to fill out each template correctly</li>
-                    <li>✅ Real-world project scenarios and challenges</li>
-                    <li>✅ Best practices for stakeholder management</li>
-                    <li>✅ Risk management and mitigation strategies</li>
-                    <li>✅ Portfolio-worthy project documentation</li>
+                    <li>How to fill out each template correctly</li>
+                    <li>Real-world project scenarios and challenges</li>
+                    <li>Best practices for stakeholder management</li>
+                    <li>Risk management and mitigation strategies</li>
+                    <li>Portfolio-worthy project documentation</li>
                 </ul>
             </div>
         </div>
@@ -246,32 +270,26 @@
         <h2>Why Choose This Toolkit?</h2>
         <div class="features-grid">
             <div class="feature">
-                <span class="feature-emoji">🎯</span>
                 <h3>Google PM Certified</h3>
                 <p>Templates align with the Google Project Management Certificate curriculum and best practices</p>
             </div>
             <div class="feature">
-                <span class="feature-emoji">🔧</span>
                 <h3>Ready to Use</h3>
                 <p>Copy-paste templates that work immediately. No setup or customization required.</p>
             </div>
             <div class="feature">
-                <span class="feature-emoji">💼</span>
                 <h3>IT Focused</h3>
                 <p>Optimized for IT and software development projects with relevant examples</p>
             </div>
             <div class="feature">
-                <span class="feature-emoji">📚</span>
                 <h3>Complete Lifecycle</h3>
                 <p>Cover all phases from initiation through closing with integrated artifacts</p>
             </div>
             <div class="feature">
-                <span class="feature-emoji">🎓</span>
                 <h3>Learn by Example</h3>
                 <p>Case study shows how templates are used in real-world project scenarios</p>
             </div>
             <div class="feature">
-                <span class="feature-emoji">📄</span>
                 <h3>Portfolio Ready</h3>
                 <p>Professional templates suitable for including in your PM portfolio</p>
             </div>
@@ -297,7 +315,7 @@
             <div class="step">
                 <span class="step-number">3</span>
                 <h3>Copy & Customize</h3>
-                <p>Download templates and adapt them to your project needs</p>
+                <p>Open a template above, then use File → Make a copy in Google to edit your own version</p>
             </div>
             <div class="step">
                 <span class="step-number">4</span>
@@ -308,6 +326,53 @@
     </div>
 </section>
 
+<script>
+    const catalogItems = [...document.querySelectorAll(".catalog-phase .document-link")];
+    const catalogSections = [...document.querySelectorAll(".catalog-phase")];
+    const searchInput = document.querySelector("#template-search");
+    const phaseFilter = document.querySelector("#phase-filter");
+    const typeFilter = document.querySelector("#type-filter");
+    const resultCount = document.querySelector("#catalog-count");
+    const emptyMessage = document.querySelector("#catalog-empty");
+
+    function filterCatalog() {
+        const query = searchInput.value.trim().toLowerCase();
+        const selectedPhase = phaseFilter.value;
+        const selectedType = typeFilter.value;
+
+        catalogItems.forEach((item) => {
+            const matchesPhase = selectedPhase === "all" || item.dataset.phase === selectedPhase;
+            const matchesType = selectedType === "all" || item.dataset.type === selectedType;
+            const matchesSearch = !query || `${item.textContent} ${item.dataset.search || ""}`.toLowerCase().includes(query);
+            item.hidden = !(matchesPhase && matchesType && matchesSearch);
+        });
+
+        catalogSections.forEach((section) => {
+            const sectionItems = [...section.querySelectorAll(".document-link")];
+            const visibleSectionItems = sectionItems.filter((item) => !item.hidden);
+            section.hidden = visibleSectionItems.length === 0;
+            sectionItems.forEach((item) => item.classList.remove("document-link--wide"));
+
+            if (visibleSectionItems.length % 2 === 1) {
+                visibleSectionItems[visibleSectionItems.length - 1].classList.add("document-link--wide");
+            }
+        });
+
+        const visibleItems = catalogItems.filter((item) => !item.hidden);
+        const templateCount = visibleItems.filter((item) => item.tagName === "A").length;
+        const pendingCount = visibleItems.length - templateCount;
+        const resourceLabel = `${templateCount} ${templateCount === 1 ? "resource" : "resources"}`;
+        resultCount.textContent = pendingCount
+            ? `${resourceLabel} · ${pendingCount} coming soon`
+            : resourceLabel;
+        emptyMessage.hidden = visibleItems.length > 0;
+    }
+
+    searchInput.addEventListener("input", filterCatalog);
+    phaseFilter.addEventListener("change", filterCatalog);
+    typeFilter.addEventListener("change", filterCatalog);
+    filterCatalog();
+</script>
 <!-- About Section -->
 <section id="about" class="about">
     <div class="container">
@@ -317,8 +382,8 @@
             <p>Aspiring Project Manager focused on IT and GameDev industries.</p>
             <p>I created this toolkit to help other PMs and students navigate the project management lifecycle with confidence. These templates are based on industry best practices and the Google PM Professional Certificate methodology.</p>
             <div class="social-links">
-                <a href="https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/" target="_blank" class="social-link">💼 LinkedIn</a>
-                <a href="https://github.com/Valeriia458" target="_blank" class="social-link">🐙 GitHub</a>
+                <a href="https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/" target="_blank" rel="noopener noreferrer" class="social-link">LinkedIn</a>
+                <a href="https://github.com/Valeriia458" target="_blank" rel="noopener noreferrer" class="social-link">GitHub</a>
             </div>
         </div>
     </div>
@@ -331,33 +396,31 @@
         <p>If you find these templates helpful, please:</p>
         <div class="support-actions">
             <div class="support-action">
-                <span class="emoji">⭐</span>
                 <h3>Star on GitHub</h3>
                 <p>Help other aspiring PMs discover these resources</p>
             </div>
             <div class="support-action">
-                <span class="emoji">🤝</span>
                 <h3>Contribute</h3>
                 <p>Share improvements and new templates via pull requests</p>
             </div>
             <div class="support-action">
-                <span class="emoji">💬</span>
                 <h3>Share Feedback</h3>
                 <p>Open an issue if you have suggestions or find issues</p>
             </div>
         </div>
-        <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats" target="_blank" class="btn btn-primary btn-large">Visit Repository</a>
+        <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-large">Visit Repository</a>
     </div>
 </section>
 
+</main>
 <!-- Footer -->
 <footer class="footer">
     <div class="container">
-        <p>&copy; 2026 IT Project Management Toolkit | Made with ❤️ by Valeriia Bovsunovska</p>
+        <p>&copy; 2026 IT Project Management Toolkit | By Valeriia Bovsunovska</p>
         <p>
-            <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats" target="_blank">GitHub</a> • 
-            <a href="https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/" target="_blank">LinkedIn</a> • 
-            <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats/blob/main/LICENSE" target="_blank">License (MIT)</a>
+            <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates" target="_blank" rel="noopener noreferrer">GitHub</a> • 
+            <a href="https://www.linkedin.com/in/valeriia-bovsunovska-aa8615312/" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
+            <a href="https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templates/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">License (MIT)</a>
         </p>
     </div>
 </footer>
