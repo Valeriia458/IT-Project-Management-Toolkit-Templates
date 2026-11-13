@@ -32,6 +32,7 @@ Open a template from a phase document list. For Google Docs, Sheets, or Slides, 
 [Atlassian](https://www.atlassian.com/project-management/templates) <br>
 [Smartsheet](https://www.smartsheet.com/content/project-management-plan-templates) <br>
 [Airtable](https://www.airtable.com/templates/project-management/expnPwND0WA2x7nhJ) 
+[gamedesigning.org](https://gamedesigning.org/learn/game-design-document/?utm_source)
 
 ## Project Management Books
 
