@@ -2,7 +2,7 @@
 # IT Project Management Toolkit
 A collection of professional templates for aspiring and junior Project Managers, inspired by the Google PM Certificate and real-world IT workflows.
 
-## What's Inside?
+##  📂 What's Inside?
 ### 4. Closing Phase
 * [**Stakeholder Acceptance Sign-off**](https://docs.google.com/document/d/1g5VQEc--6uCxyXhmdJ01O2hbHAj59ZBRvzES6tl4ORE/edit?usp=sharing)  ✅
 * [**Project Handover & Support Documentation**](https://docs.google.com/document/d/1MPQ-JojhR8GBTcsMUanyFF_fuaxKY20ufwH_-tX7Kog/edit?usp=sharing)  👩
