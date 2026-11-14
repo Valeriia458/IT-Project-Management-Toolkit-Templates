@@ -14,7 +14,7 @@ A collection of professional templates for aspiring and junior Project Managers,
 * [**Budget Beast Burndown Chart:**](https://docs.google.com/presentation/d/1qyBv2pLs-z-qsqt1AONzjZNCCuc-ePlaUkjk1mNPRKs/edit?usp=sharing) 🍵
 * [**Communication plan**](https://docs.google.com/spreadsheets/d/184RvkkeF_4SZDzM8HLmha_Jubh7Jmc1CFfoHKVvl6r0/edit?usp=sharing) 🌷
 * [**Quality Management Plan**](https://docs.google.com/document/d/1V4mGbDlikKi8PY7rD1IvOW-Kb9XaJchBBbSxt6vr7O0/edit?usp=sharing) ✅
-* [**Technical Debt Register**](https://docs.google.com/document/d/1HDuEw5ndC7-aFRHa9fLvADnhJYCjpOzoH6t0ebinmVg/edit?usp=sharing)🔧
+* [**Technical Debt Register**](https://docs.google.com/document/d/1HDuEw5ndC7-aFRHa9fLvADnhJYCjpOzoH6t0ebinmVg/edit?usp=sharing)📋
 * [**Risk management plan**](https://docs.google.com/document/d/1MsQGYH1z_b30UpKBNA_psbkV2RnsJiDD0Ij1QvD5P0E/edit?usp=sharing) ✨
 * [**Planning: Guiding questions and tips**](https://drive.google.com/file/d/1AJPMy3LHz9KABoG60eaYRdv2krsF7P7-/view?usp=sharing) 🌳
 
