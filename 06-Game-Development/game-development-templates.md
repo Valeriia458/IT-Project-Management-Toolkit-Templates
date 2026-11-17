@@ -2,7 +2,7 @@
 A collection of practical templates and resources for Game Development teams, covering project planning, game design, production management, and team collaboration.
 ## 📂 What's Inside?  
 
-- [Game Design Document (GDD)](https://gamedesigning.org/wp-content/uploads/2025/07/GDD-template.pdf)👾 
+- [**Game Design Document (GDD**)](https://gamedesigning.org/wp-content/uploads/2025/07/GDD-template.pdf)👾 
 - [**Technical Design Document (TDD)**](https://github.com/arc42/arc42-template) 🏗️  
 - **Game Production Plan**  
 - **Level Design Document (LDD)**  
