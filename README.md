@@ -40,7 +40,7 @@ Open a template from a phase document list. For Google Docs, Sheets, or Slides, 
 by J. Hank Rainwater, 2002](https://drive.google.com/file/d/1QMz9CT6QLwCn2kRkE2CNePH5bg5SOjZK/view?usp=sharing)
 
 ## 📰📰 Articles
-[The Role of a Game Producer. Project Manager for GameDev](https://gamedesigning.org/gaming/the-role-of-a-game-producer-and-why-studios-cant-function-without-one/)  
+[The Role of a Game Producer: Project Management in GameDev](https://gamedesigning.org/gaming/the-role-of-a-game-producer-and-why-studios-cant-function-without-one/)  
 
 
 ## ✨ Why this Toolkit?
