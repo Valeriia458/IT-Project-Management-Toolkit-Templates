@@ -310,7 +310,7 @@ textarea:focus-visible {
 }
 
 .hero .btn-primary {
-    background: var(--primary-color);
+    background: #3347A8;
 }
 
 .hero .btn-primary:hover {
