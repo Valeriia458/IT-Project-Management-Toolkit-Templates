@@ -185,7 +185,7 @@ textarea:focus-visible {
     display: inline-flex;
     align-items: center;
     min-height: 2.75rem;
-    color: var(--text-light);
+    color: #2C2269;
     transition: color var(--transition);
 }
 
