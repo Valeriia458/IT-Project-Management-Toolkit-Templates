@@ -186,6 +186,7 @@ textarea:focus-visible {
     align-items: center;
     min-height: 2.75rem;
     color: #2C2269;
+    font-weight: 600;
     transition: color var(--transition);
 }
 
