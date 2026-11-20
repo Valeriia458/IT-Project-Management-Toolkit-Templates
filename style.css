@@ -164,10 +164,12 @@ textarea:focus-visible {
     align-items: center;
 }
 
+
 .logo {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 20px;
     font-weight: 700;
-    font-size: 1.3rem;
-    color: var(--dark-color);
+    color: #1E293B;
 }
 
 .nav-links {
