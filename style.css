@@ -149,7 +149,7 @@ textarea:focus-visible {
 
 /* Navigation Bar */
 .navbar {
-    background-color: var(--surface-color);
+    background-color: #FCEDD8;
     border-bottom: 1px solid var(--border-color);
     color: var(--text-on-dark-color);
     padding: 0.8rem 0;
