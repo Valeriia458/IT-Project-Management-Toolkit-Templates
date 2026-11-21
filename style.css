@@ -319,14 +319,14 @@ textarea:focus-visible {
 }
 
 .hero .btn-secondary {
-    color: var(--text-color);
-    border-color: var(--border-subtle-color);
+    color: #2C2269;
+    border-color: #2C2269;
 }
 
 .hero .btn-secondary:hover {
     background: var(--surface-color);
-    border-color: var(--text-color);
-    color: var(--text-color);
+    border-color: #2C2269;
+    color: #2C2269;
 }
 
 .hero-facts {
