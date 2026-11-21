@@ -394,14 +394,20 @@ textarea:focus-visible {
     margin-bottom: var(--spacing-lg);
 }
 
+
 .hero-case-phases {
     display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
+    flex-wrap: nowrap;
+    gap: 0.25rem;
     align-items: center;
-    padding: 0;
-    background: transparent;
+    padding: 0.55rem 0.6rem;
+    background: var(--light-color);
+    border-radius: var(--border-radius);
+    font-size: 0.72rem;
+    font-weight: 600;
+    white-space: nowrap;
 }
+
 
 .hero-phase-pill {
     display: inline-flex;
