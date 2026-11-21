@@ -399,15 +399,52 @@ textarea:focus-visible {
     flex-wrap: wrap;
     gap: 0.4rem;
     align-items: center;
-    padding: 0.7rem 0.8rem;
-    background: var(--light-color);
-    border-radius: var(--border-radius);
-    font-size: 0.78rem;
-    font-weight: 600;
+    padding: 0;
+    background: transparent;
 }
 
-.hero-case-phases span {
-    color: var(--primary-color);
+.hero-phase-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.4rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #1E293B;
+}
+
+/* Coloured dots */
+
+.hero-phase-pill::before {
+    content: "";
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 50%;
+    background: var(--phase-dot);
+    flex-shrink: 0;
+}
+
+/* Individual phase colours */
+
+.hero-phase-initiate {
+    background: #FEF0C7;
+    --phase-dot: #EAB308;
+}
+
+.hero-phase-plan {
+    background: #FED7AA;
+    --phase-dot: #F97316;
+}
+
+.hero-phase-deliver {
+    background: #BAE6FD;
+    --phase-dot: #0EA5E9;
+}
+
+.hero-phase-close {
+    background: #D9F99D;
+    --phase-dot: #84CC16;
 }
 
 .hero-case-link {
