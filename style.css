@@ -434,23 +434,23 @@ textarea:focus-visible {
 /* Individual phase colours */
 
 .hero-phase-initiate {
-    background: #FEF0C7;
-    --phase-dot: #EAB308;
+    background: #FBDE98;
+    --phase-dot: #E8AC10;
 }
 
 .hero-phase-plan {
-    background: #FED7AA;
-    --phase-dot: #F97316;
+    background: #FEAC87;
+    --phase-dot: #FE6637;
 }
 
 .hero-phase-deliver {
-    background: #BAE6FD;
-    --phase-dot: #0EA5E9;
+    background: #9BDEE7;
+    --phase-dot: #0E9FD4;
 }
 
 .hero-phase-close {
-    background: #D9F99D;
-    --phase-dot: #84CC16;
+    background: #C0EF87;
+    --phase-dot: #77D618;
 }
 
 .hero-case-link {
