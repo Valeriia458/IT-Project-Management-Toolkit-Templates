@@ -362,8 +362,8 @@ textarea:focus-visible {
     padding: clamp(1.25rem, 2.5vw, 1.75rem);
     background: #FCEDD8;
     color: var(--text-color);
-    border: 1px solid var(--border-color);
-    border-left: 3px solid var(--primary-color);
+    border: 1px solid #C39118;
+    border-left: 3px solid #C39118;
     border-radius: var(--border-radius);
     transition: border-color var(--transition), background-color var(--transition);
 }
@@ -371,7 +371,7 @@ textarea:focus-visible {
 .hero-case-study:hover {
     color: var(--text-color);
     background: #FCEDD8;
-    border-color: var(--border-accent-color);
+    border-color: #DBC581;
 }
 
 .hero-case-study:focus-visible {
