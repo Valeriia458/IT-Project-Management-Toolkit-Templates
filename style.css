@@ -232,6 +232,7 @@ textarea:focus-visible {
     background-color: transparent;
     color: var(--secondary-color);
     border: 2px solid var(--accent-cool-color);
+   font-weight: 600;
 }
 
 .btn-secondary:hover {
