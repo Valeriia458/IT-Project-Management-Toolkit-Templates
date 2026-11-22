@@ -845,6 +845,23 @@ textarea:focus-visible {
     color: var(--text-inverse-color);
 }
 
+
+/* Intermediate Screens - Small Laptops and Tablets */
+
+@media (max-width: 960px) {
+
+    .hero-layout {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-xl);
+    }
+
+    .hero-case-study {
+        width: 100%;
+        max-width: none;
+    }
+
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     h1 { font-size: 2rem; }
