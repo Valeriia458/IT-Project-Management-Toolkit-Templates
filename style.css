@@ -1232,3 +1232,14 @@ a.document-link:focus-visible,
         text-align: left;
     }
 }
+
+
+/* Responsive project phase buttons */
+@media (max-width: 900px) {
+    .hero-case-phases {
+        flex-wrap: wrap;
+        white-space: normal;
+        gap: 0.35rem;
+    }
+}
+
