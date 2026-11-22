@@ -848,7 +848,7 @@ textarea:focus-visible {
 
 /* Intermediate Screens - Small Laptops and Tablets */
 
-@media (max-width: 960px) {
+@media (max-width: 1100px) {
 
     .hero-layout {
         grid-template-columns: 1fr;
