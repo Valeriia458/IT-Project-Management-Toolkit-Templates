@@ -999,7 +999,7 @@ textarea:focus-visible {
 
 .catalog-toolbar {
     display: grid;
-    grid-template-columns: minmax(240px, 1fr) minmax(180px, 0.55fr) minmax(180px, 0.55fr);
+    grid-template-columns: minmax(240px, 1fr) minmax(180px, 0.55fr);
     gap: 0.85rem;
     padding: 1rem;
     background: var(--surface-color);
