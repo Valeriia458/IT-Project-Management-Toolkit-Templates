@@ -335,20 +335,17 @@
     const catalogSections = [...document.querySelectorAll(".catalog-phase")];
     const searchInput = document.querySelector("#template-search");
     const phaseFilter = document.querySelector("#phase-filter");
-    const typeFilter = document.querySelector("#type-filter");
     const resultCount = document.querySelector("#catalog-count");
     const emptyMessage = document.querySelector("#catalog-empty");
 
     function filterCatalog() {
         const query = searchInput.value.trim().toLowerCase();
         const selectedPhase = phaseFilter.value;
-        const selectedType = typeFilter.value;
 
         catalogItems.forEach((item) => {
             const matchesPhase = selectedPhase === "all" || item.dataset.phase === selectedPhase;
-            const matchesType = selectedType === "all" || item.dataset.type === selectedType;
             const matchesSearch = !query || `${item.textContent} ${item.dataset.search || ""}`.toLowerCase().includes(query);
-            item.hidden = !(matchesPhase && matchesType && matchesSearch);
+            item.hidden = !(matchesPhase && matchesSearch);
         });
 
         catalogSections.forEach((section) => {
@@ -374,7 +371,6 @@
 
     searchInput.addEventListener("input", filterCatalog);
     phaseFilter.addEventListener("change", filterCatalog);
-    typeFilter.addEventListener("change", filterCatalog);
     filterCatalog();
 </script>
 <!-- About Section -->
