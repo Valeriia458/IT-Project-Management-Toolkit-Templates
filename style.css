@@ -962,7 +962,7 @@ textarea:focus-visible {
 /* Template Catalog */
 .catalog {
     padding: 2.5rem 0;
-    background: var(--light-color);
+    background: var(--hero-background-color);
 }
 
 .catalog-heading {
