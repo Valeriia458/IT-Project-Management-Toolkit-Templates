@@ -997,14 +997,14 @@ textarea:focus-visible {
     font-weight: 700;
 }
 
+
 .catalog-toolbar {
     display: grid;
     grid-template-columns: minmax(240px, 1fr) minmax(180px, 0.55fr);
     gap: 0.85rem;
-    padding: 1rem;
-    background: var(--surface-color);
-    border: 1px solid var(--border-color);
-    border-radius: var(--border-radius);
+    padding: 0;
+    background: transparent;
+    border: none;
 }
 
 .catalog-toolbar label {
