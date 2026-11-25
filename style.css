@@ -1016,6 +1016,10 @@ textarea:focus-visible {
     font-weight: 700;
 }
 
+.catalog-toolbar label > span {
+    min-height: 1.55rem;
+}
+
 .catalog-toolbar input,
 .catalog-toolbar select {
     width: 100%;
